@@ -1,0 +1,870 @@
+[
+    {
+        "nfc_id": 1,
+        "email_address": "Lev1@mail.com"
+    },
+    {
+        "nfc_id": 1,
+        "email_address": "Lev2@mail.com"
+    },
+    {
+        "nfc_id": 1,
+        "email_address": "Lev3@mail.com"
+    },
+    {
+        "nfc_id": 2,
+        "email_address": "Timon1@mail.com"
+    },
+    {
+        "nfc_id": 2,
+        "email_address": "Timon2@mail.com"
+    },
+    {
+        "nfc_id": 2,
+        "email_address": "Timon3@mail.com"
+    },
+    {
+        "nfc_id": 3,
+        "email_address": "Kuame1@mail.com"
+    },
+    {
+        "nfc_id": 4,
+        "email_address": "Jacob1@mail.com"
+    },
+    {
+        "nfc_id": 4,
+        "email_address": "Jacob2@mail.com"
+    },
+    {
+        "nfc_id": 4,
+        "email_address": "Jacob3@mail.com"
+    },
+    {
+        "nfc_id": 5,
+        "email_address": "Jade1@mail.com"
+    },
+    {
+        "nfc_id": 5,
+        "email_address": "Jade2@mail.com"
+    },
+    {
+        "nfc_id": 5,
+        "email_address": "Jade3@mail.com"
+    },
+    {
+        "nfc_id": 6,
+        "email_address": "Oscar1@mail.com"
+    },
+    {
+        "nfc_id": 6,
+        "email_address": "Oscar2@mail.com"
+    },
+    {
+        "nfc_id": 6,
+        "email_address": "Oscar3@mail.com"
+    },
+    {
+        "nfc_id": 7,
+        "email_address": "Kellie1@mail.com"
+    },
+    {
+        "nfc_id": 8,
+        "email_address": "Ebony1@mail.com"
+    },
+    {
+        "nfc_id": 8,
+        "email_address": "Ebony2@mail.com"
+    },
+    {
+        "nfc_id": 8,
+        "email_address": "Ebony3@mail.com"
+    },
+    {
+        "nfc_id": 9,
+        "email_address": "Alec1@mail.com"
+    },
+    {
+        "nfc_id": 9,
+        "email_address": "Alec2@mail.com"
+    },
+    {
+        "nfc_id": 9,
+        "email_address": "Alec3@mail.com"
+    },
+    {
+        "nfc_id": 10,
+        "email_address": "Cleo1@mail.com"
+    },
+    {
+        "nfc_id": 11,
+        "email_address": "Nicole1@mail.com"
+    },
+    {
+        "nfc_id": 11,
+        "email_address": "Nicole2@mail.com"
+    },
+    {
+        "nfc_id": 12,
+        "email_address": "Zelda1@mail.com"
+    },
+    {
+        "nfc_id": 12,
+        "email_address": "Zelda2@mail.com"
+    },
+    {
+        "nfc_id": 13,
+        "email_address": "Oprah1@mail.com"
+    },
+    {
+        "nfc_id": 13,
+        "email_address": "Oprah2@mail.com"
+    },
+    {
+        "nfc_id": 13,
+        "email_address": "Oprah3@mail.com"
+    },
+    {
+        "nfc_id": 14,
+        "email_address": "Stewart1@mail.com"
+    },
+    {
+        "nfc_id": 15,
+        "email_address": "Willow1@mail.com"
+    },
+    {
+        "nfc_id": 16,
+        "email_address": "Derek1@mail.com"
+    },
+    {
+        "nfc_id": 16,
+        "email_address": "Derek2@mail.com"
+    },
+    {
+        "nfc_id": 17,
+        "email_address": "Kirestin1@mail.com"
+    },
+    {
+        "nfc_id": 18,
+        "email_address": "Preston1@mail.com"
+    },
+    {
+        "nfc_id": 19,
+        "email_address": "Portia1@mail.com"
+    },
+    {
+        "nfc_id": 20,
+        "email_address": "Regan1@mail.com"
+    },
+    {
+        "nfc_id": 21,
+        "email_address": "Malcolm1@mail.com"
+    },
+    {
+        "nfc_id": 22,
+        "email_address": "Sonya1@mail.com"
+    },
+    {
+        "nfc_id": 22,
+        "email_address": "Sonya2@mail.com"
+    },
+    {
+        "nfc_id": 22,
+        "email_address": "Sonya3@mail.com"
+    },
+    {
+        "nfc_id": 23,
+        "email_address": "Quincy1@mail.com"
+    },
+    {
+        "nfc_id": 23,
+        "email_address": "Quincy2@mail.com"
+    },
+    {
+        "nfc_id": 23,
+        "email_address": "Quincy3@mail.com"
+    },
+    {
+        "nfc_id": 24,
+        "email_address": "Kirk1@mail.com"
+    },
+    {
+        "nfc_id": 24,
+        "email_address": "Kirk2@mail.com"
+    },
+    {
+        "nfc_id": 25,
+        "email_address": "Vaughan1@mail.com"
+    },
+    {
+        "nfc_id": 25,
+        "email_address": "Vaughan2@mail.com"
+    },
+    {
+        "nfc_id": 25,
+        "email_address": "Vaughan3@mail.com"
+    },
+    {
+        "nfc_id": 26,
+        "email_address": "Arden1@mail.com"
+    },
+    {
+        "nfc_id": 27,
+        "email_address": "Sandra1@mail.com"
+    },
+    {
+        "nfc_id": 28,
+        "email_address": "Nissim1@mail.com"
+    },
+    {
+        "nfc_id": 29,
+        "email_address": "Harlan1@mail.com"
+    },
+    {
+        "nfc_id": 30,
+        "email_address": "Keith1@mail.com"
+    },
+    {
+        "nfc_id": 30,
+        "email_address": "Keith2@mail.com"
+    },
+    {
+        "nfc_id": 30,
+        "email_address": "Keith3@mail.com"
+    },
+    {
+        "nfc_id": 31,
+        "email_address": "Driscoll1@mail.com"
+    },
+    {
+        "nfc_id": 31,
+        "email_address": "Driscoll2@mail.com"
+    },
+    {
+        "nfc_id": 32,
+        "email_address": "Fletcher1@mail.com"
+    },
+    {
+        "nfc_id": 32,
+        "email_address": "Fletcher2@mail.com"
+    },
+    {
+        "nfc_id": 32,
+        "email_address": "Fletcher3@mail.com"
+    },
+    {
+        "nfc_id": 33,
+        "email_address": "Hanna1@mail.com"
+    },
+    {
+        "nfc_id": 33,
+        "email_address": "Hanna2@mail.com"
+    },
+    {
+        "nfc_id": 33,
+        "email_address": "Hanna3@mail.com"
+    },
+    {
+        "nfc_id": 34,
+        "email_address": "Hadassah1@mail.com"
+    },
+    {
+        "nfc_id": 34,
+        "email_address": "Hadassah2@mail.com"
+    },
+    {
+        "nfc_id": 35,
+        "email_address": "Yardley1@mail.com"
+    },
+    {
+        "nfc_id": 35,
+        "email_address": "Yardley2@mail.com"
+    },
+    {
+        "nfc_id": 35,
+        "email_address": "Yardley3@mail.com"
+    },
+    {
+        "nfc_id": 36,
+        "email_address": "Juliet1@mail.com"
+    },
+    {
+        "nfc_id": 37,
+        "email_address": "Shea1@mail.com"
+    },
+    {
+        "nfc_id": 37,
+        "email_address": "Shea2@mail.com"
+    },
+    {
+        "nfc_id": 37,
+        "email_address": "Shea3@mail.com"
+    },
+    {
+        "nfc_id": 38,
+        "email_address": "Rina1@mail.com"
+    },
+    {
+        "nfc_id": 38,
+        "email_address": "Rina2@mail.com"
+    },
+    {
+        "nfc_id": 38,
+        "email_address": "Rina3@mail.com"
+    },
+    {
+        "nfc_id": 39,
+        "email_address": "Mark1@mail.com"
+    },
+    {
+        "nfc_id": 39,
+        "email_address": "Mark2@mail.com"
+    },
+    {
+        "nfc_id": 40,
+        "email_address": "Tanisha1@mail.com"
+    },
+    {
+        "nfc_id": 40,
+        "email_address": "Tanisha2@mail.com"
+    },
+    {
+        "nfc_id": 40,
+        "email_address": "Tanisha3@mail.com"
+    },
+    {
+        "nfc_id": 41,
+        "email_address": "Quincy1@mail.com"
+    },
+    {
+        "nfc_id": 41,
+        "email_address": "Quincy2@mail.com"
+    },
+    {
+        "nfc_id": 41,
+        "email_address": "Quincy3@mail.com"
+    },
+    {
+        "nfc_id": 42,
+        "email_address": "Ishmael1@mail.com"
+    },
+    {
+        "nfc_id": 43,
+        "email_address": "Russell1@mail.com"
+    },
+    {
+        "nfc_id": 43,
+        "email_address": "Russell2@mail.com"
+    },
+    {
+        "nfc_id": 43,
+        "email_address": "Russell3@mail.com"
+    },
+    {
+        "nfc_id": 44,
+        "email_address": "Tatiana1@mail.com"
+    },
+    {
+        "nfc_id": 44,
+        "email_address": "Tatiana2@mail.com"
+    },
+    {
+        "nfc_id": 44,
+        "email_address": "Tatiana3@mail.com"
+    },
+    {
+        "nfc_id": 45,
+        "email_address": "Brody1@mail.com"
+    },
+    {
+        "nfc_id": 45,
+        "email_address": "Brody2@mail.com"
+    },
+    {
+        "nfc_id": 46,
+        "email_address": "Chancellor1@mail.com"
+    },
+    {
+        "nfc_id": 46,
+        "email_address": "Chancellor2@mail.com"
+    },
+    {
+        "nfc_id": 46,
+        "email_address": "Chancellor3@mail.com"
+    },
+    {
+        "nfc_id": 47,
+        "email_address": "Sasha1@mail.com"
+    },
+    {
+        "nfc_id": 47,
+        "email_address": "Sasha2@mail.com"
+    },
+    {
+        "nfc_id": 48,
+        "email_address": "Shannon1@mail.com"
+    },
+    {
+        "nfc_id": 49,
+        "email_address": "Chadwick1@mail.com"
+    },
+    {
+        "nfc_id": 49,
+        "email_address": "Chadwick2@mail.com"
+    },
+    {
+        "nfc_id": 49,
+        "email_address": "Chadwick3@mail.com"
+    },
+    {
+        "nfc_id": 50,
+        "email_address": "Jesse1@mail.com"
+    },
+    {
+        "nfc_id": 51,
+        "email_address": "Olga1@mail.com"
+    },
+    {
+        "nfc_id": 51,
+        "email_address": "Olga2@mail.com"
+    },
+    {
+        "nfc_id": 51,
+        "email_address": "Olga3@mail.com"
+    },
+    {
+        "nfc_id": 52,
+        "email_address": "Hayden1@mail.com"
+    },
+    {
+        "nfc_id": 52,
+        "email_address": "Hayden2@mail.com"
+    },
+    {
+        "nfc_id": 52,
+        "email_address": "Hayden3@mail.com"
+    },
+    {
+        "nfc_id": 53,
+        "email_address": "Gemma1@mail.com"
+    },
+    {
+        "nfc_id": 53,
+        "email_address": "Gemma2@mail.com"
+    },
+    {
+        "nfc_id": 53,
+        "email_address": "Gemma3@mail.com"
+    },
+    {
+        "nfc_id": 54,
+        "email_address": "Phoebe1@mail.com"
+    },
+    {
+        "nfc_id": 54,
+        "email_address": "Phoebe2@mail.com"
+    },
+    {
+        "nfc_id": 54,
+        "email_address": "Phoebe3@mail.com"
+    },
+    {
+        "nfc_id": 55,
+        "email_address": "Russell1@mail.com"
+    },
+    {
+        "nfc_id": 55,
+        "email_address": "Russell2@mail.com"
+    },
+    {
+        "nfc_id": 55,
+        "email_address": "Russell3@mail.com"
+    },
+    {
+        "nfc_id": 56,
+        "email_address": "Lara1@mail.com"
+    },
+    {
+        "nfc_id": 56,
+        "email_address": "Lara2@mail.com"
+    },
+    {
+        "nfc_id": 56,
+        "email_address": "Lara3@mail.com"
+    },
+    {
+        "nfc_id": 57,
+        "email_address": "Jamal1@mail.com"
+    },
+    {
+        "nfc_id": 58,
+        "email_address": "Wylie1@mail.com"
+    },
+    {
+        "nfc_id": 59,
+        "email_address": "Remedios1@mail.com"
+    },
+    {
+        "nfc_id": 59,
+        "email_address": "Remedios2@mail.com"
+    },
+    {
+        "nfc_id": 59,
+        "email_address": "Remedios3@mail.com"
+    },
+    {
+        "nfc_id": 60,
+        "email_address": "Xander1@mail.com"
+    },
+    {
+        "nfc_id": 61,
+        "email_address": "Madaline1@mail.com"
+    },
+    {
+        "nfc_id": 61,
+        "email_address": "Madaline2@mail.com"
+    },
+    {
+        "nfc_id": 61,
+        "email_address": "Madaline3@mail.com"
+    },
+    {
+        "nfc_id": 62,
+        "email_address": "Olivia1@mail.com"
+    },
+    {
+        "nfc_id": 62,
+        "email_address": "Olivia2@mail.com"
+    },
+    {
+        "nfc_id": 62,
+        "email_address": "Olivia3@mail.com"
+    },
+    {
+        "nfc_id": 63,
+        "email_address": "Susan1@mail.com"
+    },
+    {
+        "nfc_id": 63,
+        "email_address": "Susan2@mail.com"
+    },
+    {
+        "nfc_id": 64,
+        "email_address": "Blaine1@mail.com"
+    },
+    {
+        "nfc_id": 64,
+        "email_address": "Blaine2@mail.com"
+    },
+    {
+        "nfc_id": 64,
+        "email_address": "Blaine3@mail.com"
+    },
+    {
+        "nfc_id": 65,
+        "email_address": "Kaseem1@mail.com"
+    },
+    {
+        "nfc_id": 65,
+        "email_address": "Kaseem2@mail.com"
+    },
+    {
+        "nfc_id": 65,
+        "email_address": "Kaseem3@mail.com"
+    },
+    {
+        "nfc_id": 66,
+        "email_address": "Emily1@mail.com"
+    },
+    {
+        "nfc_id": 66,
+        "email_address": "Emily2@mail.com"
+    },
+    {
+        "nfc_id": 66,
+        "email_address": "Emily3@mail.com"
+    },
+    {
+        "nfc_id": 67,
+        "email_address": "Preston1@mail.com"
+    },
+    {
+        "nfc_id": 67,
+        "email_address": "Preston2@mail.com"
+    },
+    {
+        "nfc_id": 68,
+        "email_address": "Charde1@mail.com"
+    },
+    {
+        "nfc_id": 68,
+        "email_address": "Charde2@mail.com"
+    },
+    {
+        "nfc_id": 69,
+        "email_address": "Geoffrey1@mail.com"
+    },
+    {
+        "nfc_id": 69,
+        "email_address": "Geoffrey2@mail.com"
+    },
+    {
+        "nfc_id": 70,
+        "email_address": "Gary1@mail.com"
+    },
+    {
+        "nfc_id": 70,
+        "email_address": "Gary2@mail.com"
+    },
+    {
+        "nfc_id": 70,
+        "email_address": "Gary3@mail.com"
+    },
+    {
+        "nfc_id": 71,
+        "email_address": "Xaviera1@mail.com"
+    },
+    {
+        "nfc_id": 71,
+        "email_address": "Xaviera2@mail.com"
+    },
+    {
+        "nfc_id": 71,
+        "email_address": "Xaviera3@mail.com"
+    },
+    {
+        "nfc_id": 72,
+        "email_address": "Christian1@mail.com"
+    },
+    {
+        "nfc_id": 72,
+        "email_address": "Christian2@mail.com"
+    },
+    {
+        "nfc_id": 73,
+        "email_address": "Yuri1@mail.com"
+    },
+    {
+        "nfc_id": 73,
+        "email_address": "Yuri2@mail.com"
+    },
+    {
+        "nfc_id": 73,
+        "email_address": "Yuri3@mail.com"
+    },
+    {
+        "nfc_id": 74,
+        "email_address": "Colorado1@mail.com"
+    },
+    {
+        "nfc_id": 75,
+        "email_address": "Petra1@mail.com"
+    },
+    {
+        "nfc_id": 75,
+        "email_address": "Petra2@mail.com"
+    },
+    {
+        "nfc_id": 76,
+        "email_address": "Paki1@mail.com"
+    },
+    {
+        "nfc_id": 76,
+        "email_address": "Paki2@mail.com"
+    },
+    {
+        "nfc_id": 77,
+        "email_address": "Cassandra1@mail.com"
+    },
+    {
+        "nfc_id": 77,
+        "email_address": "Cassandra2@mail.com"
+    },
+    {
+        "nfc_id": 77,
+        "email_address": "Cassandra3@mail.com"
+    },
+    {
+        "nfc_id": 78,
+        "email_address": "Blythe1@mail.com"
+    },
+    {
+        "nfc_id": 78,
+        "email_address": "Blythe2@mail.com"
+    },
+    {
+        "nfc_id": 78,
+        "email_address": "Blythe3@mail.com"
+    },
+    {
+        "nfc_id": 79,
+        "email_address": "Cassidy1@mail.com"
+    },
+    {
+        "nfc_id": 79,
+        "email_address": "Cassidy2@mail.com"
+    },
+    {
+        "nfc_id": 80,
+        "email_address": "Ainsley1@mail.com"
+    },
+    {
+        "nfc_id": 80,
+        "email_address": "Ainsley2@mail.com"
+    },
+    {
+        "nfc_id": 81,
+        "email_address": "Haviva1@mail.com"
+    },
+    {
+        "nfc_id": 81,
+        "email_address": "Haviva2@mail.com"
+    },
+    {
+        "nfc_id": 82,
+        "email_address": "Nash1@mail.com"
+    },
+    {
+        "nfc_id": 83,
+        "email_address": "Lester1@mail.com"
+    },
+    {
+        "nfc_id": 84,
+        "email_address": "Dawn1@mail.com"
+    },
+    {
+        "nfc_id": 84,
+        "email_address": "Dawn2@mail.com"
+    },
+    {
+        "nfc_id": 85,
+        "email_address": "Alma1@mail.com"
+    },
+    {
+        "nfc_id": 86,
+        "email_address": "Magee1@mail.com"
+    },
+    {
+        "nfc_id": 87,
+        "email_address": "Tad1@mail.com"
+    },
+    {
+        "nfc_id": 88,
+        "email_address": "Tanek1@mail.com"
+    },
+    {
+        "nfc_id": 89,
+        "email_address": "Damon1@mail.com"
+    },
+    {
+        "nfc_id": 90,
+        "email_address": "Mia1@mail.com"
+    },
+    {
+        "nfc_id": 90,
+        "email_address": "Mia2@mail.com"
+    },
+    {
+        "nfc_id": 90,
+        "email_address": "Mia3@mail.com"
+    },
+    {
+        "nfc_id": 91,
+        "email_address": "Devin1@mail.com"
+    },
+    {
+        "nfc_id": 91,
+        "email_address": "Devin2@mail.com"
+    },
+    {
+        "nfc_id": 91,
+        "email_address": "Devin3@mail.com"
+    },
+    {
+        "nfc_id": 92,
+        "email_address": "Daria1@mail.com"
+    },
+    {
+        "nfc_id": 93,
+        "email_address": "Derek1@mail.com"
+    },
+    {
+        "nfc_id": 93,
+        "email_address": "Derek2@mail.com"
+    },
+    {
+        "nfc_id": 93,
+        "email_address": "Derek3@mail.com"
+    },
+    {
+        "nfc_id": 94,
+        "email_address": "Tatyana1@mail.com"
+    },
+    {
+        "nfc_id": 94,
+        "email_address": "Tatyana2@mail.com"
+    },
+    {
+        "nfc_id": 94,
+        "email_address": "Tatyana3@mail.com"
+    },
+    {
+        "nfc_id": 95,
+        "email_address": "Dillon1@mail.com"
+    },
+    {
+        "nfc_id": 95,
+        "email_address": "Dillon2@mail.com"
+    },
+    {
+        "nfc_id": 95,
+        "email_address": "Dillon3@mail.com"
+    },
+    {
+        "nfc_id": 96,
+        "email_address": "Vaughan1@mail.com"
+    },
+    {
+        "nfc_id": 96,
+        "email_address": "Vaughan2@mail.com"
+    },
+    {
+        "nfc_id": 96,
+        "email_address": "Vaughan3@mail.com"
+    },
+    {
+        "nfc_id": 97,
+        "email_address": "Warren1@mail.com"
+    },
+    {
+        "nfc_id": 97,
+        "email_address": "Warren2@mail.com"
+    },
+    {
+        "nfc_id": 97,
+        "email_address": "Warren3@mail.com"
+    },
+    {
+        "nfc_id": 98,
+        "email_address": "Kane1@mail.com"
+    },
+    {
+        "nfc_id": 99,
+        "email_address": "Zelenia1@mail.com"
+    },
+    {
+        "nfc_id": 99,
+        "email_address": "Zelenia2@mail.com"
+    },
+    {
+        "nfc_id": 100,
+        "email_address": "Merritt1@mail.com"
+    },
+    {
+        "nfc_id": 100,
+        "email_address": "Merritt2@mail.com"
+    },
+    {
+        "nfc_id": 100,
+        "email_address": "Merritt3@mail.com"
+    }
+]

@@ -1,0 +1,362 @@
+[
+	{
+		"area_id": 1,
+		"beds": 0,
+		"area_name": "bar1",
+		"area_description": "bar1"
+	},
+    {
+		"area_id": 2,
+		"beds": 0,
+		"area_name": "bar2",
+		"area_description": "bar2"
+	},
+    {
+		"area_id": 3,
+		"beds": 0,
+		"area_name": "bar3",
+		"area_description": "bar3"
+	},
+    {
+		"area_id": 4,
+		"beds": 0,
+		"area_name": "bar4",
+		"area_description": "bar4"
+	},
+    {
+		"area_id": 5,
+		"beds": 0,
+		"area_name": "bar5",
+		"area_description": "bar5"
+	},
+    {
+		"area_id": 6,
+		"beds": 0,
+		"area_name": "bar6",
+		"area_description": "bar6"
+	},
+    {
+		"area_id": 7,
+		"beds": 0,
+		"area_name": "restaurant1",
+		"area_description": "restaurant1"
+	},
+    {
+		"area_id": 8,
+		"beds": 0,
+		"area_name": "restaurant2",
+		"area_description": "restaurant2"
+	},
+    {
+		"area_id": 9,
+		"beds": 0,
+		"area_name": "restaurant3",
+		"area_description": "restaurant3"
+	},
+    {
+		"area_id": 10,
+		"beds": 0,
+		"area_name": "restaurant4",
+		"area_description": "restaurant4"
+	},
+    {
+		"area_id": 11,
+		"beds": 0,
+		"area_name": "conf-room1",
+		"area_description": "conf-room1"
+	},
+    {
+		"area_id": 12,
+		"beds": 0,
+		"area_name": "conf-room2",
+		"area_description": "conf-room2"
+	},
+    {
+		"area_id": 13,
+		"beds": 0,
+		"area_name": "conf-room3",
+		"area_description": "conf-room3"
+	},
+    {
+		"area_id": 14,
+		"beds": 0,
+		"area_name": "conf-room4",
+		"area_description": "conf-room4"
+	},
+    {
+		"area_id": 15,
+		"beds": 0,
+		"area_name": "conf-room5",
+		"area_description": "conf-room5"
+	},
+    {
+		"area_id": 16,
+		"beds": 0,
+		"area_name": "conf-room6",
+		"area_description": "conf-room6"
+	},
+    {
+		"area_id": 17,
+		"beds": 0,
+		"area_name": "conf-room7",
+		"area_description": "conf-room7"
+	},
+    {
+		"area_id": 18,
+		"beds": 0,
+		"area_name": "conf-room8",
+		"area_description": "conf-room8"
+	},
+    {
+		"area_id": 19,
+		"beds": 0,
+		"area_name": "conf-room9",
+		"area_description": "conf-room9"
+	},
+    {
+		"area_id": 20,
+		"beds": 0,
+		"area_name": "conf-room10",
+		"area_description": "conf-room10"
+	},
+    {
+		"area_id": 21,
+		"beds": 0,
+		"area_name": "gym1",
+		"area_description": "gym1"
+	},
+    {
+		"area_id": 22,
+		"beds": 0,
+		"area_name": "gym2",
+		"area_description": "gym2"
+	},
+    {
+		"area_id": 23,
+		"beds": 0,
+		"area_name": "gym3",
+		"area_description": "gym3"
+	},
+    {
+		"area_id": 24,
+		"beds": 0,
+		"area_name": "gym4",
+		"area_description": "gym4"
+	},
+    {
+		"area_id": 25,
+		"beds": 0,
+		"area_name": "sauna1",
+		"area_description": "sauna1"
+	},
+    {
+		"area_id": 26,
+		"beds": 0,
+		"area_name": "sauna2",
+		"area_description": "sauna2"
+	},
+    {
+		"area_id": 27,
+		"beds": 0,
+		"area_name": "sauna3",
+		"area_description": "sauna3"
+	},
+    {
+		"area_id": 28,
+		"beds": 0,
+		"area_name": "sauna4",
+		"area_description": "sauna4"
+	},
+    {
+		"area_id": 29,
+		"beds": 0,
+		"area_name": "sauna5",
+		"area_description": "sauna5"
+	},
+    {
+		"area_id": 30,
+		"beds": 0,
+		"area_name": "sauna6",
+		"area_description": "sauna6"
+	},
+    {
+		"area_id": 31,
+		"beds": 0,
+		"area_name": "sauna7",
+		"area_description": "sauna7"
+	},
+    {
+		"area_id": 32,
+		"beds": 0,
+		"area_name": "sauna8",
+		"area_description": "sauna8"
+	},
+    {
+		"area_id": 33,
+		"beds": 0,
+		"area_name": "sauna9",
+		"area_description": "sauna9"
+	},
+    {
+		"area_id": 34,
+		"beds": 0,
+		"area_name": "sauna10",
+		"area_description": "sauna10"
+	},
+    {
+		"area_id": 35,
+		"beds": 0,
+		"area_name": "hair_salon",
+		"area_description": "hair_salon"
+	},
+    {
+		"area_id": 36,
+		"beds": 0,
+		"area_name": "corridor_1_south",
+		"area_description": "corridor_1_south"
+	},
+    {
+		"area_id": 37,
+		"beds": 0,
+		"area_name": "corridor_2_south",
+		"area_description": "corridor_2_south"
+	},
+    {
+		"area_id": 38,
+		"beds": 0,
+		"area_name": "corridor_3_south",
+		"area_description": "corridor_3_south"
+	},
+    {
+		"area_id": 39,
+		"beds": 0,
+		"area_name": "corridor_4_south",
+		"area_description": "corridor_4_south"
+	},
+    {
+		"area_id": 40,
+		"beds": 0,
+		"area_name": "corridor_5_south",
+		"area_description": "corridor_5_south"
+	},
+    {
+		"area_id": 41,
+		"beds": 0,
+		"area_name": "corridor_1_north",
+		"area_description": "corridor_1_north"
+	},
+    {
+		"area_id": 42,
+		"beds": 0,
+		"area_name": "corridor_2_north",
+		"area_description": "corridor_2_north"
+	},
+    {
+		"area_id": 43,
+		"beds": 0,
+		"area_name": "corridor_3_north",
+		"area_description": "corridor_3_north"
+	},
+    {
+		"area_id": 44,
+		"beds": 0,
+		"area_name": "corridor_4_north",
+		"area_description": "corridor_4_north"
+	},
+    {
+		"area_id": 45,
+		"beds": 0,
+		"area_name": "corridor_5_north",
+		"area_description": "corridor_5_north"
+	},
+    {
+		"area_id": 46,
+		"beds": 0,
+		"area_name": "corridor_1_east",
+		"area_description": "corridor_1_east"
+	},
+    {
+		"area_id": 47,
+		"beds": 0,
+		"area_name": "corridor_2_east",
+		"area_description": "corridor_2_east"
+	},
+    {
+		"area_id": 48,
+		"beds": 0,
+		"area_name": "corridor_3_east",
+		"area_description": "corridor_3_east"
+	},
+    {
+		"area_id": 49,
+		"beds": 0,
+		"area_name": "corridor_4_east",
+		"area_description": "corridor_4_east"
+	},
+    {
+		"area_id": 50,
+		"beds": 0,
+		"area_name": "corridor_5_east",
+		"area_description": "corridor_5_east"
+	},
+    {
+		"area_id": 51,
+		"beds": 0,
+		"area_name": "corridor_1_west",
+		"area_description": "corridor_1_west"
+	},
+    {
+		"area_id": 52,
+		"beds": 0,
+		"area_name": "corridor_2_west",
+		"area_description": "corridor_2_west"
+	},
+    {
+		"area_id": 53,
+		"beds": 0,
+		"area_name": "corridor_3_west",
+		"area_description": "corridor_3_west"
+	},
+    {
+		"area_id": 54,
+		"beds": 0,
+		"area_name": "corridor_4_west",
+		"area_description": "corridor_4_west"
+	},
+    {
+		"area_id": 55,
+		"beds": 0,
+		"area_name": "corridor_5_west",
+		"area_description": "corridor_5_west"
+	},
+    {
+		"area_id": 56,
+		"beds": 0,
+		"area_name": "elevator_1",
+		"area_description": "elevator_1"
+	},
+    {
+		"area_id": 57,
+		"beds": 0,
+		"area_name": "elevator_2",
+		"area_description": "elevator_2"
+	},
+    {
+		"area_id": 58,
+		"beds": 0,
+		"area_name": "elevator_3",
+		"area_description": "elevator_3"
+	},
+    {
+		"area_id": 59,
+		"beds": 0,
+		"area_name": "elevator_4",
+		"area_description": "elevator_4"
+	},
+    {
+		"area_id": 60,
+		"beds": 0,
+		"area_name": "elevator_5",
+		"area_description": "elevator_5"
+	}
+]
