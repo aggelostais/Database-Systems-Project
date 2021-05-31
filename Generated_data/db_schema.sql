@@ -26,7 +26,7 @@ CREATE TABLE phone (
 CREATE TABLE service (
     service_id INT AUTO_INCREMENT,
     description VARCHAR(40) NOT NULL,
-    requires_registration BIT(1) NOT NULL,
+    requires_registration TINYINT(1) NOT NULL,
     PRIMARY KEY (service_id)
 );
 
