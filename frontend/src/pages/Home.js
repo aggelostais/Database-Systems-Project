@@ -4,6 +4,7 @@ import Paper from "@material-ui/core/Paper";
 import Container from '@material-ui/core/Container';
 import Button from '@material-ui/core/Button';
 import ServiceList from '../components/ServiceList';
+import Visits from "../components/Visits";
 
 export default function Home() {
 
@@ -34,6 +35,7 @@ export default function Home() {
           </h3>
       </div>      
       <ServiceList />
+      <Visits/>
 
     </Container>
     );
