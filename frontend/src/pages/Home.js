@@ -9,7 +9,7 @@ import Visits from "../components/Visits";
 export default function Home() {
 
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth="md">
 
       <div>
         <h1

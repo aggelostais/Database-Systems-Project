@@ -9,6 +9,13 @@ import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select'; 
 import TextField from '@material-ui/core/TextField';
+import Table from '@material-ui/core/Table';
+import TableBody from '@material-ui/core/TableBody';
+import TableCell from '@material-ui/core/TableCell';
+import TableContainer from '@material-ui/core/TableContainer';
+import TableHead from '@material-ui/core/TableHead';
+import TableRow from '@material-ui/core/TableRow';
+import Paper from '@material-ui/core/Paper';
 
 const useStyles = makeStyles((theme) => ({
     formControl: {
@@ -27,12 +34,15 @@ const useStyles = makeStyles((theme) => ({
         marginRight: theme.spacing(1),
         width: 200,
       },
+      table: {
+        minWidth: 650,
+      },
   }));
 
 const Visits = () => {
     const classes = useStyles();
 
-    const [visits, setVisits] = useState({});
+    const [visits, setVisits] = useState([]);
     const [service, setService] = useState(undefined);
     const [dateStart, setDateStart] = useState(undefined);
     const [dateEnd, setDateEnd] = useState(undefined);
@@ -62,9 +72,9 @@ const Visits = () => {
     
     const renderedVisits = Object.values(visits).map(visit => {
         return (
-            <Typography variant="body2" component="p" key={visit.nfc_id + visit._from}>
+            <Typography variant="body2" component="p" key={visit.nfc_id + " " + visit.area_name + " " + visit._from}>
                 <ArrowForwardIosIcon style={{fontSize:'small'}}/> 
-                {visit._from + visit._to}
+                {visit.area_name + " " + visit._from + " " + visit._to}
             </Typography>
         );
     });
@@ -78,7 +88,7 @@ const Visits = () => {
             style={{ 
                 fontFamily: "Roboto",
                 }}>
-              Search for visits:
+              Search for visit events:
           </h3>
           <FormControl 
             className={classes.formControl}
@@ -110,7 +120,7 @@ const Visits = () => {
                 id="date_start"
                 label="From"
                 type="date"
-                defaultValue="yyyy-mm-dd"
+                placeholder="yyyy-mm-dd"
                 className={classes.textField}
                 InputLabelProps={{
                 shrink: true,
@@ -124,7 +134,7 @@ const Visits = () => {
                 id="date_end"
                 label="To"
                 type="date"
-                defaultValue="yyyy-mm-dd"
+                placeholder="yyyy-mm-dd"
                 className={classes.textField}
                 InputLabelProps={{
                 shrink: true,
@@ -200,6 +210,12 @@ const Visits = () => {
             >
               Reset
             </Button>
+
+            {
+              <Typography>
+                {visits.length} events found
+              </Typography>
+            }
         </div>
         <div
             style={{
@@ -208,7 +224,42 @@ const Visits = () => {
                     overflowY: "scroll",
                 }}
             >
-            {renderedVisits}
+              <TableContainer component={Paper}>
+                <Table className={classes.table} aria-label="simple table">
+                  <TableHead>
+                    <TableRow>
+                      <TableCell>nfc_id</TableCell>
+                      <TableCell align="center">area_name</TableCell>
+                      <TableCell align="center">from</TableCell>
+                      <TableCell align="center">to</TableCell>
+                      {visits[0].amount &&
+                        <>
+                          <TableCell align="center">charge amount</TableCell>
+                          <TableCell align="center">charge description</TableCell>
+                        </>
+                      }
+                    </TableRow>
+                  </TableHead>
+                  <TableBody>
+                    {visits.map((visit) => (
+                      <TableRow key={visit.nfc_id + " " + visit.area_name + " " + visit._from}>
+                        <TableCell component="th" scope="row">
+                          {visit.nfc_id}
+                        </TableCell>
+                        <TableCell align="center">{visit.area_name}</TableCell>
+                        <TableCell align="center">{visit._from}</TableCell>
+                        <TableCell align="center">{visit._to}</TableCell>
+                        {visit.amount &&
+                          <>
+                            <TableCell align="center">{visit.amount}</TableCell>
+                            <TableCell align="center">{visit.charge_description}</TableCell>
+                          </>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
         </div>
         </>
     ) ;
