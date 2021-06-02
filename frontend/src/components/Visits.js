@@ -232,7 +232,7 @@ const Visits = () => {
                       <TableCell align="center">area_name</TableCell>
                       <TableCell align="center">from</TableCell>
                       <TableCell align="center">to</TableCell>
-                      {visits[0].amount &&
+                      {visits.length > 0 && visits[0].amount &&
                         <>
                           <TableCell align="center">charge amount</TableCell>
                           <TableCell align="center">charge description</TableCell>

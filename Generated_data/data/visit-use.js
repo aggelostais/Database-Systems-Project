@@ -87,7 +87,7 @@ for (let nfc_id = 1; nfc_id <= 100; nfc_id++){
     // Describe routine
     let now = today;
 
-    if(today.getHours() < 23){
+    if(today.getHours() < 22){
         now.setHours(Math.floor(Math.random() * 2) + 22);   // 22 or 23
         now.setMinutes(Math.floor(Math.random() * 60));     // 0 ... 59
     }
@@ -179,7 +179,7 @@ for (let nfc_id = 1; nfc_id <= 100; nfc_id++){
     now = new Date(next_now);
 
     // if not registered yet
-    if(now > tomorrow) { 
+    if(now < tomorrow) { 
         now = new Date(tomorrow);
         now.setMinutes(now.getMinutes() + 30);
         next_now = new Date(now);
