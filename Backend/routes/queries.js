@@ -132,8 +132,44 @@ const fetchTrace = async (nfc_id, id_number, first_name, last_name) => {
     }
 }
 
+const fetchCovid = async (nfc_id, id_number) => {
+    try{
+        let query;
+
+        if(id_number){
+            query = `SELECT A.nfc_id AS nfc_id_1, A.area_id AS area_id_1, A._from AS from_1, A._to AS to_1, B.nfc_id AS nfc_id_2, customer.id_number, B.area_id AS area_id_2, B._from AS from_2, B._to AS to_2
+            FROM visits AS A 
+            JOIN visits AS B 
+            ON A.area_id = B.area_id AND A.nfc_id <> B.nfc_id AND ((A._from > B._from AND A._from < DATE_ADD(B._to, INTERVAL 1 HOUR)) OR (A._to > B._from AND A._to < DATE_ADD(B._to, INTERVAL 1 HOUR))) 
+            JOIN customer
+            ON B.nfc_id = customer.nfc_id
+            WHERE customer.id_number = "${id_number}";`;
+        }
+        else if(nfc_id){
+            query = `SELECT A.nfc_id AS nfc_id_1, A.area_id AS area_id_1, A._from AS from_1, A._to AS to_1, B.nfc_id AS nfc_id_2, B.area_id AS area_id_2, B._from AS from_2, B._to AS to_2
+            FROM visits AS A 
+            JOIN visits AS B 
+            ON A.area_id = B.area_id AND A.nfc_id <> B.nfc_id AND ((A._from > B._from AND A._from < DATE_ADD(B._to, INTERVAL 1 HOUR)) OR (A._to > B._from AND A._to < DATE_ADD(B._to, INTERVAL 1 HOUR))) 
+            WHERE B.nfc_id = ${nfc_id};`;
+        }
+
+        console.log(query);
+
+        let res = await pool.query(query);
+
+        // Convert OkPacket to plain object
+        res = JSON.parse(JSON.stringify(res));
+
+        return res;
+        
+    }catch(err){
+        throw err;
+    }
+}
+
 module.exports = {
     fetchServices,
     fetchVisits,
-    fetchTrace
+    fetchTrace,
+    fetchCovid
 }

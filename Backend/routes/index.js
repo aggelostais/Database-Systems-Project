@@ -1,5 +1,5 @@
 const express = require('express');
-const { fetchServices, fetchVisits, fetchTrace } = require('./queries');
+const { fetchServices, fetchVisits, fetchTrace, fetchCovid } = require('./queries');
 const router = express.Router();
 
 router.get('/services', async (req, res) => {
@@ -30,6 +30,15 @@ router.get('/trace', async (req, res) => {
     const trace = await fetchTrace(nfc_id, id_number, first_name, last_name);
 
     res.send(trace);
+})
+
+router.get('/checkCovid', async (req, res) => {
+    const nfc_id = req.query.nfc_id;
+    const id_number = req.query.id_number;
+
+    const checkCovid = await fetchCovid(nfc_id, id_number);
+
+    res.send(checkCovid);
 })
 
 module.exports = router;

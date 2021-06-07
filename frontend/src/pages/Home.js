@@ -6,6 +6,7 @@ import Button from '@material-ui/core/Button';
 import ServiceList from '../components/ServiceList';
 import Visits from "../components/Visits";
 import Trace from "../components/Trace";
+import CheckCovid from "../components/CheckCovid";
 
 export default function Home() {
 
@@ -38,6 +39,7 @@ export default function Home() {
       <ServiceList />
       <Visits/>
       <Trace/>
+      <CheckCovid/>
 
     </Container>
     );
