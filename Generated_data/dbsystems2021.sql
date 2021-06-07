@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 02, 2021 at 09:58 PM
+-- Generation Time: Jun 07, 2021 at 05:54 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -6701,6 +6701,26 @@ INSERT INTO `visits` (`nfc_id`, `area_id`, `_from`, `_to`) VALUES
 (100, 60, '2021-05-26 06:56:50', '2021-05-26 06:57:50'),
 (100, 157, '2021-05-25 20:54:50', '2021-05-26 06:54:50'),
 (100, 157, '2021-05-26 18:20:50', '2021-05-26 22:33:50');
+
+--
+-- Triggers `visits`
+--
+DELIMITER $$
+CREATE TRIGGER `prevent_overlapping_visits` BEFORE INSERT ON `visits` FOR EACH ROW BEGIN
+    DECLARE rowcount INT;
+    
+    SELECT COUNT(*) 
+    INTO rowcount
+    FROM visits 
+    WHERE visits.nfc_id = new.nfc_id AND ( (new._from > visits._from AND new._from < visits._to) OR (new._to > visits._from AND new._to < visits._to) );
+    
+    IF rowcount > 0 THEN
+        signal sqlstate '45000';
+    END IF; 
+
+END
+$$
+DELIMITER ;
 
 --
 -- Indexes for dumped tables
