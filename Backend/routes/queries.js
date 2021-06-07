@@ -83,7 +83,57 @@ const fetchVisits = async (service_id, date_start, date_end, cost_low, cost_high
     }
 }
 
+const fetchTrace = async (nfc_id, id_number, first_name, last_name) => {
+    try{
+        let query;
+
+        if(id_number){
+            query = `SELECT visits.nfc_id, customer.first_name, customer.last_name, customer.id_number, visits.area_id, area.area_name, visits._from, visits._to
+            FROM customer
+            JOIN visits
+            ON customer.id_number="${id_number}" AND visits.nfc_id=customer.nfc_id
+            JOIN area
+            ON visits.area_id = area.area_id
+            ORDER BY visits._from ASC;`;
+        }
+        else if(first_name && last_name){
+            query = `SELECT visits.nfc_id, customer.first_name, customer.last_name, customer.id_number, visits.area_id, area.area_name, visits._from, visits._to
+            FROM customer
+            JOIN visits
+            ON customer.first_name="${first_name}" AND customer.last_name="${last_name}" AND visits.nfc_id=customer.nfc_id
+            JOIN area
+            ON visits.area_id = area.area_id
+            ORDER BY visits._from ASC;`;
+        }
+        else if(nfc_id){
+            query = `SELECT visits.nfc_id, customer.first_name, customer.last_name, customer.id_number, visits.area_id, area.area_name, visits._from, visits._to 
+            FROM visits
+            JOIN area
+            ON visits.nfc_id=${nfc_id} AND visits.area_id = area.area_id
+            JOIN customer
+            ON visits.nfc_id=customer.nfc_id
+            ORDER BY visits._from ASC;`;
+        }
+        else{
+            return [];
+        }
+
+        console.log(query);
+
+        let res = await pool.query(query);
+
+        // Convert OkPacket to plain object
+        res = JSON.parse(JSON.stringify(res));
+
+        return res;
+        
+    }catch(err){
+        throw err;
+    }
+}
+
 module.exports = {
     fetchServices,
-    fetchVisits
+    fetchVisits,
+    fetchTrace
 }

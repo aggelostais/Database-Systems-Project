@@ -1,5 +1,5 @@
 const express = require('express');
-const { fetchServices, fetchVisits } = require('./queries');
+const { fetchServices, fetchVisits, fetchTrace } = require('./queries');
 const router = express.Router();
 
 router.get('/services', async (req, res) => {
@@ -19,6 +19,17 @@ router.get('/visits', async (req, res) => {
     console.log('results length = ' + visits.length);
 
     res.send(visits);
+})
+
+router.get('/trace', async (req, res) => {
+    const nfc_id = req.query.nfc_id;
+    const id_number = req.query.id_number;
+    const first_name = req.query.first_name;
+    const last_name = req.query.last_name;
+
+    const trace = await fetchTrace(nfc_id, id_number, first_name, last_name);
+
+    res.send(trace);
 })
 
 module.exports = router;

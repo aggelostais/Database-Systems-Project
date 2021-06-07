@@ -5,6 +5,7 @@ import Container from '@material-ui/core/Container';
 import Button from '@material-ui/core/Button';
 import ServiceList from '../components/ServiceList';
 import Visits from "../components/Visits";
+import Trace from "../components/Trace";
 
 export default function Home() {
 
@@ -36,6 +37,7 @@ export default function Home() {
       </div>      
       <ServiceList />
       <Visits/>
+      <Trace/>
 
     </Container>
     );
