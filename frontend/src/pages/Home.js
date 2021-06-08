@@ -10,6 +10,8 @@ import CheckCovid from "../components/CheckCovid";
 import VisitsPerArea from "../components/VisitsPerArea";
 import VisitsPerService from "../components/VisitsPerService";
 import CustomersPerService from "../components/CustomersPerService";
+import SalesView from "../components/SalesView";
+import CustomerRecord from "../components/CustomerRecord";
 
 export default function Home() {
 
@@ -46,6 +48,8 @@ export default function Home() {
       <VisitsPerArea/>
       <VisitsPerService/>
       <CustomersPerService/>
+      <SalesView/>
+      <CustomerRecord/>
 
     </Container>
     );

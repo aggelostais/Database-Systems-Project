@@ -298,6 +298,55 @@ const fetchSuccessfulServiceStats = async (age_low, age_high, start_date, end_da
     }
 }
 
+const fetchSalesView = async () => {
+    try{
+        let query = `SELECT * FROM sales_per_service;`
+
+        console.log(query);
+
+        let res = await pool.query(query);
+
+        // Convert OkPacket to plain object
+        res = JSON.parse(JSON.stringify(res));
+
+        return res;
+        
+    }catch(err){
+        throw err;
+    }
+}
+
+const fetchCustomerRecord = async (nfc_id, id_number, first_name, last_name) => {
+    try{
+        let query;
+
+        if(id_number){
+            query = `SELECT * FROM customer_records WHERE id_number="${id_number}"`;
+        }
+        else if(first_name && last_name){
+            query = `SELECT * FROM customer_records WHERE first_name="${first_name}" AND last_name="${last_name}"`;
+        }
+        else if(nfc_id){
+            query = `SELECT * FROM customer_records WHERE nfc_id=${nfc_id}`;
+        }
+        else{
+            return [];
+        }
+
+        console.log(query);
+
+        let res = await pool.query(query);
+
+        // Convert OkPacket to plain object
+        res = JSON.parse(JSON.stringify(res));
+
+        return res;
+        
+    }catch(err){
+        throw err;
+    }
+}
+
 module.exports = {
     fetchServices,
     fetchVisits,
@@ -305,5 +354,7 @@ module.exports = {
     fetchCovid,
     fetchAreaStats,
     fetchServiceStats,
-    fetchSuccessfulServiceStats
+    fetchSuccessfulServiceStats,
+    fetchSalesView,
+    fetchCustomerRecord
 }

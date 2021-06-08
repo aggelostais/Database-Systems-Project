@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 07, 2021 at 05:54 PM
+-- Generation Time: Jun 08, 2021 at 10:14 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -622,6 +622,24 @@ INSERT INTO `customer` (`nfc_id`, `first_name`, `last_name`, `birth_date`, `id_t
 (98, 'Kane', 'Rhodes', '1930-11-02', 'Identity_card', '16850302 0300', 'Kenosha ID authority'),
 (99, 'Zelenia', 'Burks', '1952-07-11', 'Passport', '16800608 0306', 'Pickering ID authority'),
 (100, 'Merritt', 'Pacheco', '1920-10-18', 'Identity_card', '16781205 4968', 'Comblain-Fairon ID authority');
+
+-- --------------------------------------------------------
+
+--
+-- Stand-in structure for view `customer_records`
+-- (See below for the actual view)
+--
+CREATE TABLE `customer_records` (
+`nfc_id` int(11)
+,`first_name` varchar(40)
+,`last_name` varchar(40)
+,`birth_date` date
+,`id_number` varchar(20)
+,`id_type` varchar(20)
+,`email_address` varchar(50)
+,`checkin_time` timestamp
+,`total_charge` decimal(32,2)
+);
 
 -- --------------------------------------------------------
 
@@ -4346,6 +4364,17 @@ INSERT INTO `registered_in` (`nfc_id`, `service_id`, `registration_time`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Stand-in structure for view `sales_per_service`
+-- (See below for the actual view)
+--
+CREATE TABLE `sales_per_service` (
+`description` varchar(40)
+,`sales` decimal(32,2)
+);
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `service`
 --
 
@@ -6721,6 +6750,24 @@ CREATE TRIGGER `prevent_overlapping_visits` BEFORE INSERT ON `visits` FOR EACH R
 END
 $$
 DELIMITER ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure for view `customer_records`
+--
+DROP TABLE IF EXISTS `customer_records`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`db_user`@`%` SQL SECURITY DEFINER VIEW `customer_records`  AS SELECT `a`.`nfc_id` AS `nfc_id`, `a`.`first_name` AS `first_name`, `a`.`last_name` AS `last_name`, `a`.`birth_date` AS `birth_date`, `a`.`id_number` AS `id_number`, `a`.`id_type` AS `id_type`, `a`.`email_address` AS `email_address`, `a`.`checkin_time` AS `checkin_time`, `b`.`total_charge` AS `total_charge` FROM ((select `customer`.`nfc_id` AS `nfc_id`,`customer`.`first_name` AS `first_name`,`customer`.`last_name` AS `last_name`,`customer`.`birth_date` AS `birth_date`,`customer`.`id_number` AS `id_number`,`customer`.`id_type` AS `id_type`,`email`.`email_address` AS `email_address`,`registered_in`.`registration_time` AS `checkin_time` from (((`customer` join `email` on(`customer`.`nfc_id` = `email`.`nfc_id`)) join `phone` on(`customer`.`nfc_id` = `phone`.`nfc_id`)) join `registered_in` on(`customer`.`nfc_id` = `registered_in`.`nfc_id`)) where `registered_in`.`service_id` = 1 group by `customer`.`nfc_id`) `a` join (select `customer`.`nfc_id` AS `nfc_id`,sum(`uses`.`amount`) AS `total_charge` from (`customer` join `uses` on(`customer`.`nfc_id` = `uses`.`nfc_id`)) group by `customer`.`nfc_id`) `b` on(`a`.`nfc_id` = `b`.`nfc_id`)) ;
+
+-- --------------------------------------------------------
+
+--
+-- Structure for view `sales_per_service`
+--
+DROP TABLE IF EXISTS `sales_per_service`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`db_user`@`%` SQL SECURITY DEFINER VIEW `sales_per_service`  AS SELECT `service`.`description` AS `description`, sum(`uses`.`amount`) AS `sales` FROM (`uses` join `service` on(`service`.`service_id` = `uses`.`service_id`)) GROUP BY `service`.`service_id` ;
 
 --
 -- Indexes for dumped tables
