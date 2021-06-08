@@ -7,6 +7,7 @@ import ServiceList from '../components/ServiceList';
 import Visits from "../components/Visits";
 import Trace from "../components/Trace";
 import CheckCovid from "../components/CheckCovid";
+import VisitsPerArea from "../components/VisitsPerArea";
 
 export default function Home() {
 
@@ -40,6 +41,7 @@ export default function Home() {
       <Visits/>
       <Trace/>
       <CheckCovid/>
+      <VisitsPerArea/>
 
     </Container>
     );

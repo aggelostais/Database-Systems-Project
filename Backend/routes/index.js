@@ -1,5 +1,5 @@
 const express = require('express');
-const { fetchServices, fetchVisits, fetchTrace, fetchCovid } = require('./queries');
+const { fetchServices, fetchVisits, fetchTrace, fetchCovid, fetchAreaStats } = require('./queries');
 const router = express.Router();
 
 router.get('/services', async (req, res) => {
@@ -39,6 +39,17 @@ router.get('/checkCovid', async (req, res) => {
     const checkCovid = await fetchCovid(nfc_id, id_number);
 
     res.send(checkCovid);
+})
+
+router.get('/areaStats', async (req, res) => {
+    const age_low = req.query.age_low;
+    const age_high = req.query.age_high;
+    const start_date = req.query.start_date;
+    const end_date = req.query.end_date;
+
+    const stats = await fetchAreaStats(age_low, age_high, start_date, end_date);
+
+    res.send(stats);
 })
 
 module.exports = router;
