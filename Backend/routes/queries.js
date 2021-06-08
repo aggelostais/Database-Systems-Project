@@ -207,10 +207,55 @@ const fetchAreaStats = async (age_low, age_high, start_date, end_date) => {
     }
 }
 
+const fetchServiceStats = async (age_low, age_high, start_date, end_date) => {
+    try{
+        let query = `SELECT COUNT(visits.nfc_id) AS number_of_visits, service.description
+        FROM visits
+        JOIN area
+        ON visits.area_id = area.area_id
+        JOIN service
+        ON service.service_id=area.service_id
+        JOIN customer
+        ON visits.nfc_id = customer.nfc_id
+        WHERE 1`;
+
+        if(age_low){
+            query += ` AND customer.birth_date < CURDATE() - INTERVAL ${age_low} YEAR`;
+        }
+        if(age_high){
+            query += ` AND customer.birth_date > CURDATE() - INTERVAL ${age_high} YEAR`;
+        }
+        if(start_date){
+            query += ` AND visits._from > "${start_date}"`;
+        }
+        if(end_date){
+            query += ` AND visits._from < "${end_date}"`;
+        }
+
+        query += ` GROUP BY service.description
+        ORDER BY COUNT(visits.nfc_id) DESC;`
+
+        console.log(query);
+
+        let res = await pool.query(query);
+
+        // Convert OkPacket to plain object
+        res = JSON.parse(JSON.stringify(res));
+
+        return res;
+        
+    }catch(err){
+        throw err;
+    }
+}
+
+
+
 module.exports = {
     fetchServices,
     fetchVisits,
     fetchTrace,
     fetchCovid,
-    fetchAreaStats
+    fetchAreaStats,
+    fetchServiceStats
 }
