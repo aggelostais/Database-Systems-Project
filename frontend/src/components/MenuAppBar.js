@@ -161,7 +161,7 @@ export default function MenuAppBar() {
         {/* Hotel Text*/}
         <Typography variant="h5" noWrap>
           <Link className={classes.homeLink} href="/">
-            Hotel Covidmania
+          ASDF Palace Hotel
           </Link>
         </Typography>
 
