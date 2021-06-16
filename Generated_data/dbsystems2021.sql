@@ -6866,7 +6866,7 @@ ALTER TABLE `service`
 -- Constraints for table `area`
 --
 ALTER TABLE `area`
-  ADD CONSTRAINT `area_ibfk_1` FOREIGN KEY (`service_id`) REFERENCES `service` (`service_id`);
+  ADD CONSTRAINT `area_ibfk_1` FOREIGN KEY (`service_id`) REFERENCES `service` (`service_id`) ON DELETE SET NULL;
 
 --
 -- Constraints for table `email`
