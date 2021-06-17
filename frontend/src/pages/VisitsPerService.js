@@ -85,7 +85,7 @@ const VisitsPerService = () => {
             <h2
               type="text"
               className="text-body">
-                Visits per Area
+                Visits per Service
             </h2>
 
             <FormControl 
