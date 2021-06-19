@@ -1,5 +1,6 @@
 import React from "react";
 import Container from '@material-ui/core/Container';
+import ServiceList from "./ServiceList"
 
 export default function Home() {
 
@@ -15,6 +16,13 @@ export default function Home() {
             marginBottom:"50px"}}>
           Welcome to our Hotel!
         </h1>
+        <h2
+          type="text"
+          className="text-body">
+            Our Services:
+            <ServiceList></ServiceList>
+        </h2>
+      
       </div>
  
     </Container>
