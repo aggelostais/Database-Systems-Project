@@ -37,7 +37,7 @@ CREATE TABLE area (
     area_description VARCHAR(60) NOT NULL,
     service_id INT,
     PRIMARY KEY (area_id),
-    FOREIGN KEY(service_id) REFERENCES service(service_id)
+    FOREIGN KEY(service_id) REFERENCES service(service_id) ON DELETE SET NULL
 );
 
 CREATE TABLE visits (

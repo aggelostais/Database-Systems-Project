@@ -9,50 +9,50 @@
     {
         "nfc_id": 1,
         "service_id": 2,
-        "charge_time": "2021-05-25 11:00:00",
-        "amount": 11.68,
+        "charge_time": "2021-05-25 10:06:00",
+        "amount": 13.26,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 1,
         "service_id": 5,
-        "charge_time": "2021-05-25 13:50:00",
+        "charge_time": "2021-05-25 19:23:00",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 1,
         "service_id": 6,
-        "charge_time": "2021-05-25 14:10:00",
+        "charge_time": "2021-05-25 19:43:00",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 1,
         "service_id": 2,
-        "charge_time": "2021-05-25 15:20:00",
-        "amount": 17.64,
+        "charge_time": "2021-05-25 20:53:00",
+        "amount": 17.9,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 1,
         "service_id": 4,
-        "charge_time": "2021-05-25 16:00:00",
-        "amount": 15.69,
+        "charge_time": "2021-05-25 21:33:00",
+        "amount": 25.34,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 1,
         "service_id": 3,
-        "charge_time": "2021-05-25 17:10:00",
-        "amount": 21.73,
+        "charge_time": "2021-05-25 22:43:00",
+        "amount": 13.12,
         "charge_description": "bar"
     },
     {
         "nfc_id": 1,
         "service_id": 2,
-        "charge_time": "2021-05-26 10:26:00",
-        "amount": 18.8,
+        "charge_time": "2021-05-26 11:59:00",
+        "amount": 17.11,
         "charge_description": "restaurant"
     },
     {
@@ -65,43 +65,43 @@
     {
         "nfc_id": 2,
         "service_id": 2,
-        "charge_time": "2021-03-10 10:01:47",
-        "amount": 19.31,
+        "charge_time": "2021-03-10 10:46:47",
+        "amount": 13.16,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 2,
         "service_id": 5,
-        "charge_time": "2021-03-10 06:54:47",
+        "charge_time": "2021-03-10 13:36:47",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 2,
         "service_id": 6,
-        "charge_time": "2021-03-10 07:14:47",
+        "charge_time": "2021-03-10 13:56:47",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 2,
         "service_id": 2,
-        "charge_time": "2021-03-10 08:24:47",
-        "amount": 13.37,
+        "charge_time": "2021-03-10 15:06:47",
+        "amount": 18.05,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 2,
         "service_id": 4,
-        "charge_time": "2021-03-10 09:04:47",
-        "amount": 23.58,
+        "charge_time": "2021-03-10 15:46:47",
+        "amount": 18.19,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 2,
         "service_id": 3,
-        "charge_time": "2021-03-10 10:14:47",
-        "amount": 19.98,
+        "charge_time": "2021-03-10 16:56:47",
+        "amount": 12.75,
         "charge_description": "bar"
     },
     {
@@ -114,43 +114,43 @@
     {
         "nfc_id": 3,
         "service_id": 2,
-        "charge_time": "2021-03-12 09:59:18",
-        "amount": 10.8,
+        "charge_time": "2021-03-12 11:10:18",
+        "amount": 22.55,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 3,
         "service_id": 5,
-        "charge_time": "2021-03-12 12:49:18",
+        "charge_time": "2021-03-12 14:53:18",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 3,
         "service_id": 2,
-        "charge_time": "2021-03-12 14:09:18",
-        "amount": 10.85,
+        "charge_time": "2021-03-12 16:13:18",
+        "amount": 17.72,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 3,
         "service_id": 4,
-        "charge_time": "2021-03-12 14:49:18",
-        "amount": 20.33,
+        "charge_time": "2021-03-12 16:53:18",
+        "amount": 13.75,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 3,
         "service_id": 3,
-        "charge_time": "2021-03-12 15:59:18",
-        "amount": 8.86,
+        "charge_time": "2021-03-12 18:03:18",
+        "amount": 19.96,
         "charge_description": "bar"
     },
     {
         "nfc_id": 3,
         "service_id": 2,
-        "charge_time": "2021-03-13 10:15:18",
-        "amount": 12.74,
+        "charge_time": "2021-03-13 10:19:18",
+        "amount": 19.62,
         "charge_description": "restaurant"
     },
     {
@@ -163,44 +163,37 @@
     {
         "nfc_id": 4,
         "service_id": 2,
-        "charge_time": "2021-04-30 09:50:20",
-        "amount": 18.28,
+        "charge_time": "2021-04-30 09:29:20",
+        "amount": 14.26,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 4,
         "service_id": 5,
-        "charge_time": "2021-04-30 12:40:20",
+        "charge_time": "2021-04-30 23:33:20",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 4,
         "service_id": 2,
-        "charge_time": "2021-04-30 14:00:20",
-        "amount": 16.66,
+        "charge_time": "2021-05-01 00:53:20",
+        "amount": 18.39,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 4,
         "service_id": 4,
-        "charge_time": "2021-04-30 14:40:20",
-        "amount": 12.72,
+        "charge_time": "2021-05-01 01:33:20",
+        "amount": 18.88,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 4,
         "service_id": 3,
-        "charge_time": "2021-04-30 15:50:20",
-        "amount": 9.91,
+        "charge_time": "2021-05-01 02:43:20",
+        "amount": 16.67,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 4,
-        "service_id": 2,
-        "charge_time": "2021-05-01 10:06:20",
-        "amount": 20.98,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 5,
@@ -212,43 +205,43 @@
     {
         "nfc_id": 5,
         "service_id": 2,
-        "charge_time": "2021-05-20 10:52:47",
-        "amount": 24.41,
+        "charge_time": "2021-05-20 09:55:47",
+        "amount": 18.26,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 5,
         "service_id": 5,
-        "charge_time": "2021-05-20 13:42:47",
+        "charge_time": "2021-05-20 17:23:47",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 5,
         "service_id": 2,
-        "charge_time": "2021-05-20 15:02:47",
-        "amount": 14.68,
+        "charge_time": "2021-05-20 18:43:47",
+        "amount": 24.94,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 5,
         "service_id": 4,
-        "charge_time": "2021-05-20 15:42:47",
-        "amount": 28.56,
+        "charge_time": "2021-05-20 19:23:47",
+        "amount": 13.64,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 5,
         "service_id": 3,
-        "charge_time": "2021-05-20 16:52:47",
-        "amount": 11.01,
+        "charge_time": "2021-05-20 20:33:47",
+        "amount": 6.84,
         "charge_description": "bar"
     },
     {
         "nfc_id": 5,
         "service_id": 2,
-        "charge_time": "2021-05-21 10:08:47",
-        "amount": 23,
+        "charge_time": "2021-05-21 10:49:47",
+        "amount": 15.73,
         "charge_description": "restaurant"
     },
     {
@@ -261,43 +254,43 @@
     {
         "nfc_id": 6,
         "service_id": 2,
-        "charge_time": "2021-04-23 09:16:57",
-        "amount": 19.35,
+        "charge_time": "2021-04-23 09:17:57",
+        "amount": 21.04,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 6,
         "service_id": 6,
-        "charge_time": "2021-04-23 11:46:57",
+        "charge_time": "2021-04-23 18:28:57",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 6,
         "service_id": 2,
-        "charge_time": "2021-04-23 12:56:57",
-        "amount": 19.7,
+        "charge_time": "2021-04-23 19:38:57",
+        "amount": 11.29,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 6,
         "service_id": 4,
-        "charge_time": "2021-04-23 13:36:57",
-        "amount": 17.38,
+        "charge_time": "2021-04-23 20:18:57",
+        "amount": 15.75,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 6,
         "service_id": 3,
-        "charge_time": "2021-04-23 14:46:57",
-        "amount": 21.39,
+        "charge_time": "2021-04-23 21:28:57",
+        "amount": 13.93,
         "charge_description": "bar"
     },
     {
         "nfc_id": 6,
         "service_id": 2,
-        "charge_time": "2021-04-24 11:02:57",
-        "amount": 15.07,
+        "charge_time": "2021-04-24 10:44:57",
+        "amount": 24.35,
         "charge_description": "restaurant"
     },
     {
@@ -310,50 +303,50 @@
     {
         "nfc_id": 7,
         "service_id": 2,
-        "charge_time": "2021-05-10 10:54:34",
-        "amount": 17.84,
+        "charge_time": "2021-05-10 11:00:34",
+        "amount": 14.87,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 7,
         "service_id": 7,
-        "charge_time": "2021-05-10 13:54:34",
+        "charge_time": "2021-05-10 18:43:34",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 7,
         "service_id": 6,
-        "charge_time": "2021-05-10 14:24:34",
+        "charge_time": "2021-05-10 19:13:34",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 7,
         "service_id": 2,
-        "charge_time": "2021-05-10 15:34:34",
-        "amount": 22.98,
+        "charge_time": "2021-05-10 20:23:34",
+        "amount": 23.15,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 7,
         "service_id": 4,
-        "charge_time": "2021-05-10 16:14:34",
-        "amount": 9.38,
+        "charge_time": "2021-05-10 21:03:34",
+        "amount": 25.26,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 7,
         "service_id": 3,
-        "charge_time": "2021-05-10 17:24:34",
-        "amount": 12.84,
+        "charge_time": "2021-05-10 22:13:34",
+        "amount": 23.37,
         "charge_description": "bar"
     },
     {
         "nfc_id": 7,
         "service_id": 2,
-        "charge_time": "2021-05-11 10:40:34",
-        "amount": 18.23,
+        "charge_time": "2021-05-11 11:29:34",
+        "amount": 13.44,
         "charge_description": "restaurant"
     },
     {
@@ -366,50 +359,50 @@
     {
         "nfc_id": 8,
         "service_id": 2,
-        "charge_time": "2021-04-09 11:02:02",
-        "amount": 15.39,
+        "charge_time": "2021-04-09 10:40:02",
+        "amount": 18.42,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 8,
         "service_id": 5,
-        "charge_time": "2021-04-09 13:52:02",
+        "charge_time": "2021-04-09 15:55:02",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 8,
         "service_id": 6,
-        "charge_time": "2021-04-09 14:12:02",
+        "charge_time": "2021-04-09 16:15:02",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 8,
         "service_id": 2,
-        "charge_time": "2021-04-09 15:22:02",
-        "amount": 17.04,
+        "charge_time": "2021-04-09 17:25:02",
+        "amount": 19.5,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 8,
         "service_id": 4,
-        "charge_time": "2021-04-09 16:02:02",
-        "amount": 11.67,
+        "charge_time": "2021-04-09 18:05:02",
+        "amount": 20.82,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 8,
         "service_id": 3,
-        "charge_time": "2021-04-09 17:12:02",
-        "amount": 13.3,
+        "charge_time": "2021-04-09 19:15:02",
+        "amount": 19.48,
         "charge_description": "bar"
     },
     {
         "nfc_id": 8,
         "service_id": 2,
-        "charge_time": "2021-04-10 10:28:02",
-        "amount": 24.64,
+        "charge_time": "2021-04-10 10:31:02",
+        "amount": 12.96,
         "charge_description": "restaurant"
     },
     {
@@ -422,50 +415,50 @@
     {
         "nfc_id": 9,
         "service_id": 2,
-        "charge_time": "2021-03-03 09:24:50",
-        "amount": 10.14,
+        "charge_time": "2021-03-03 09:34:50",
+        "amount": 12.37,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 9,
         "service_id": 7,
-        "charge_time": "2021-03-03 12:24:50",
+        "charge_time": "2021-03-03 17:29:50",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 9,
         "service_id": 5,
-        "charge_time": "2021-03-03 13:14:50",
+        "charge_time": "2021-03-03 18:19:50",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 9,
         "service_id": 2,
-        "charge_time": "2021-03-03 14:34:50",
-        "amount": 15.59,
+        "charge_time": "2021-03-03 19:39:50",
+        "amount": 13.71,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 9,
         "service_id": 4,
-        "charge_time": "2021-03-03 15:14:50",
-        "amount": 22.72,
+        "charge_time": "2021-03-03 20:19:50",
+        "amount": 18.13,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 9,
         "service_id": 3,
-        "charge_time": "2021-03-03 16:24:50",
-        "amount": 14.9,
+        "charge_time": "2021-03-03 21:29:50",
+        "amount": 5.06,
         "charge_description": "bar"
     },
     {
         "nfc_id": 9,
         "service_id": 2,
-        "charge_time": "2021-03-04 10:40:50",
-        "amount": 20.78,
+        "charge_time": "2021-03-04 10:45:50",
+        "amount": 12.35,
         "charge_description": "restaurant"
     },
     {
@@ -478,44 +471,37 @@
     {
         "nfc_id": 10,
         "service_id": 2,
-        "charge_time": "2021-04-03 11:09:09",
-        "amount": 16.54,
+        "charge_time": "2021-04-03 10:10:09",
+        "amount": 22.19,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 10,
         "service_id": 6,
-        "charge_time": "2021-04-03 13:39:09",
+        "charge_time": "2021-04-03 23:54:09",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 10,
         "service_id": 2,
-        "charge_time": "2021-04-03 14:49:09",
-        "amount": 22,
+        "charge_time": "2021-04-04 01:04:09",
+        "amount": 21.57,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 10,
         "service_id": 4,
-        "charge_time": "2021-04-03 15:29:09",
-        "amount": 22.19,
+        "charge_time": "2021-04-04 01:44:09",
+        "amount": 12.35,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 10,
         "service_id": 3,
-        "charge_time": "2021-04-03 16:39:09",
-        "amount": 14.18,
+        "charge_time": "2021-04-04 02:54:09",
+        "amount": 15.69,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 10,
-        "service_id": 2,
-        "charge_time": "2021-04-04 10:55:09",
-        "amount": 24.3,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 11,
@@ -527,51 +513,44 @@
     {
         "nfc_id": 11,
         "service_id": 2,
-        "charge_time": "2021-05-04 10:16:08",
-        "amount": 18.53,
+        "charge_time": "2021-05-04 11:14:08",
+        "amount": 10.86,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 11,
         "service_id": 7,
-        "charge_time": "2021-05-04 13:16:08",
+        "charge_time": "2021-05-04 21:01:08",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 11,
         "service_id": 6,
-        "charge_time": "2021-05-04 13:46:08",
+        "charge_time": "2021-05-04 21:31:08",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 11,
         "service_id": 2,
-        "charge_time": "2021-05-04 14:56:08",
-        "amount": 23.79,
+        "charge_time": "2021-05-04 22:41:08",
+        "amount": 10.56,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 11,
         "service_id": 4,
-        "charge_time": "2021-05-04 15:36:08",
-        "amount": 11.3,
+        "charge_time": "2021-05-04 23:21:08",
+        "amount": 25.07,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 11,
         "service_id": 3,
-        "charge_time": "2021-05-04 16:46:08",
-        "amount": 5.13,
+        "charge_time": "2021-05-05 00:31:08",
+        "amount": 10.3,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 11,
-        "service_id": 2,
-        "charge_time": "2021-05-05 11:02:08",
-        "amount": 10.63,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 12,
@@ -583,51 +562,44 @@
     {
         "nfc_id": 12,
         "service_id": 2,
-        "charge_time": "2021-03-07 10:33:53",
-        "amount": 13.26,
+        "charge_time": "2021-03-07 09:54:53",
+        "amount": 21.27,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 12,
         "service_id": 7,
-        "charge_time": "2021-03-07 13:33:53",
+        "charge_time": "2021-03-08 00:08:53",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 12,
         "service_id": 5,
-        "charge_time": "2021-03-07 14:23:53",
+        "charge_time": "2021-03-08 00:58:53",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 12,
         "service_id": 2,
-        "charge_time": "2021-03-07 15:43:53",
-        "amount": 20.43,
+        "charge_time": "2021-03-08 02:18:53",
+        "amount": 24.67,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 12,
         "service_id": 4,
-        "charge_time": "2021-03-07 16:23:53",
-        "amount": 14.29,
+        "charge_time": "2021-03-08 02:58:53",
+        "amount": 9.89,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 12,
         "service_id": 3,
-        "charge_time": "2021-03-07 17:33:53",
-        "amount": 8.92,
+        "charge_time": "2021-03-08 04:08:53",
+        "amount": 18.78,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 12,
-        "service_id": 2,
-        "charge_time": "2021-03-08 10:49:53",
-        "amount": 21.23,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 13,
@@ -640,56 +612,56 @@
         "nfc_id": 13,
         "service_id": 2,
         "charge_time": "2021-04-23 10:17:57",
-        "amount": 22.38,
+        "amount": 21.85,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 13,
         "service_id": 7,
-        "charge_time": "2021-04-23 13:17:57",
+        "charge_time": "2021-04-23 18:58:57",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 13,
         "service_id": 5,
-        "charge_time": "2021-04-23 14:07:57",
+        "charge_time": "2021-04-23 19:48:57",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 13,
         "service_id": 6,
-        "charge_time": "2021-04-23 14:27:57",
+        "charge_time": "2021-04-23 20:08:57",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 13,
         "service_id": 2,
-        "charge_time": "2021-04-23 15:37:57",
-        "amount": 13.79,
+        "charge_time": "2021-04-23 21:18:57",
+        "amount": 22.91,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 13,
         "service_id": 4,
-        "charge_time": "2021-04-23 16:17:57",
-        "amount": 14.18,
+        "charge_time": "2021-04-23 21:58:57",
+        "amount": 27.78,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 13,
         "service_id": 3,
-        "charge_time": "2021-04-23 17:27:57",
-        "amount": 10.13,
+        "charge_time": "2021-04-23 23:08:57",
+        "amount": 23.44,
         "charge_description": "bar"
     },
     {
         "nfc_id": 13,
         "service_id": 2,
-        "charge_time": "2021-04-24 10:43:57",
-        "amount": 12.83,
+        "charge_time": "2021-04-24 12:24:57",
+        "amount": 23.26,
         "charge_description": "restaurant"
     },
     {
@@ -702,29 +674,29 @@
     {
         "nfc_id": 14,
         "service_id": 2,
-        "charge_time": "2021-05-04 10:31:55",
-        "amount": 12.47,
+        "charge_time": "2021-05-04 10:21:55",
+        "amount": 24.75,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 14,
         "service_id": 2,
-        "charge_time": "2021-05-04 12:29:55",
-        "amount": 23.5,
+        "charge_time": "2021-05-04 13:51:55",
+        "amount": 14.2,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 14,
         "service_id": 4,
-        "charge_time": "2021-05-04 13:09:55",
-        "amount": 11.1,
+        "charge_time": "2021-05-04 14:31:55",
+        "amount": 18.68,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 14,
         "service_id": 3,
-        "charge_time": "2021-05-04 14:19:55",
-        "amount": 15.18,
+        "charge_time": "2021-05-04 15:41:55",
+        "amount": 5.79,
         "charge_description": "bar"
     },
     {
@@ -738,35 +710,35 @@
         "nfc_id": 15,
         "service_id": 2,
         "charge_time": "2021-05-01 10:42:51",
-        "amount": 20.92,
+        "amount": 10.38,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 15,
         "service_id": 6,
-        "charge_time": "2021-05-01 13:12:51",
+        "charge_time": "2021-05-02 00:26:51",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 15,
         "service_id": 2,
-        "charge_time": "2021-05-01 14:22:51",
-        "amount": 15.68,
+        "charge_time": "2021-05-02 01:36:51",
+        "amount": 11.02,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 15,
         "service_id": 4,
-        "charge_time": "2021-05-01 15:02:51",
-        "amount": 29.04,
+        "charge_time": "2021-05-02 02:16:51",
+        "amount": 12.36,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 15,
         "service_id": 3,
-        "charge_time": "2021-05-01 16:12:51",
-        "amount": 19.03,
+        "charge_time": "2021-05-02 03:26:51",
+        "amount": 9.08,
         "charge_description": "bar"
     },
     {
@@ -779,36 +751,36 @@
     {
         "nfc_id": 16,
         "service_id": 2,
-        "charge_time": "2021-04-09 10:38:20",
-        "amount": 10.76,
+        "charge_time": "2021-04-09 09:42:20",
+        "amount": 11.75,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 16,
         "service_id": 7,
-        "charge_time": "2021-04-09 02:53:20",
+        "charge_time": "2021-04-09 12:42:20",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 16,
         "service_id": 2,
-        "charge_time": "2021-04-09 04:23:20",
-        "amount": 23.2,
+        "charge_time": "2021-04-09 14:12:20",
+        "amount": 15.79,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 16,
         "service_id": 4,
-        "charge_time": "2021-04-09 05:03:20",
-        "amount": 24.03,
+        "charge_time": "2021-04-09 14:52:20",
+        "amount": 18.57,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 16,
         "service_id": 3,
-        "charge_time": "2021-04-09 06:13:20",
-        "amount": 17.1,
+        "charge_time": "2021-04-09 16:02:20",
+        "amount": 10.68,
         "charge_description": "bar"
     },
     {
@@ -821,43 +793,43 @@
     {
         "nfc_id": 17,
         "service_id": 2,
-        "charge_time": "2021-05-13 10:41:47",
-        "amount": 18.49,
+        "charge_time": "2021-05-13 10:30:47",
+        "amount": 11.12,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 17,
         "service_id": 7,
-        "charge_time": "2021-05-13 11:42:47",
+        "charge_time": "2021-05-13 13:30:47",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 17,
         "service_id": 6,
-        "charge_time": "2021-05-13 12:12:47",
+        "charge_time": "2021-05-13 14:00:47",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 17,
         "service_id": 2,
-        "charge_time": "2021-05-13 13:22:47",
-        "amount": 16.59,
+        "charge_time": "2021-05-13 15:10:47",
+        "amount": 16.07,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 17,
         "service_id": 4,
-        "charge_time": "2021-05-13 14:02:47",
-        "amount": 8.52,
+        "charge_time": "2021-05-13 15:50:47",
+        "amount": 21.93,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 17,
         "service_id": 3,
-        "charge_time": "2021-05-13 15:12:47",
-        "amount": 10.02,
+        "charge_time": "2021-05-13 17:00:47",
+        "amount": 7.74,
         "charge_description": "bar"
     },
     {
@@ -870,43 +842,43 @@
     {
         "nfc_id": 18,
         "service_id": 2,
-        "charge_time": "2021-05-02 11:00:40",
-        "amount": 10.81,
+        "charge_time": "2021-05-02 10:31:40",
+        "amount": 11.16,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 18,
         "service_id": 5,
-        "charge_time": "2021-05-02 04:24:40",
+        "charge_time": "2021-05-02 13:21:40",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 18,
         "service_id": 6,
-        "charge_time": "2021-05-02 04:44:40",
+        "charge_time": "2021-05-02 13:41:40",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 18,
         "service_id": 2,
-        "charge_time": "2021-05-02 05:54:40",
-        "amount": 14.45,
+        "charge_time": "2021-05-02 14:51:40",
+        "amount": 18.5,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 18,
         "service_id": 4,
-        "charge_time": "2021-05-02 06:34:40",
-        "amount": 19.37,
+        "charge_time": "2021-05-02 15:31:40",
+        "amount": 15.1,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 18,
         "service_id": 3,
-        "charge_time": "2021-05-02 07:44:40",
-        "amount": 14.08,
+        "charge_time": "2021-05-02 16:41:40",
+        "amount": 15.32,
         "charge_description": "bar"
     },
     {
@@ -919,30 +891,37 @@
     {
         "nfc_id": 19,
         "service_id": 2,
-        "charge_time": "2021-05-04 10:53:55",
-        "amount": 24.21,
+        "charge_time": "2021-05-04 10:33:55",
+        "amount": 24.78,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 19,
         "service_id": 2,
-        "charge_time": "2021-05-04 12:29:55",
-        "amount": 20.17,
+        "charge_time": "2021-05-04 14:03:55",
+        "amount": 22.31,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 19,
         "service_id": 4,
-        "charge_time": "2021-05-04 13:09:55",
-        "amount": 20.99,
+        "charge_time": "2021-05-04 14:43:55",
+        "amount": 16.66,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 19,
         "service_id": 3,
-        "charge_time": "2021-05-04 14:19:55",
-        "amount": 10.44,
+        "charge_time": "2021-05-04 15:53:55",
+        "amount": 7.23,
         "charge_description": "bar"
+    },
+    {
+        "nfc_id": 19,
+        "service_id": 2,
+        "charge_time": "2021-05-05 10:09:55",
+        "amount": 15.1,
+        "charge_description": "restaurant"
     },
     {
         "nfc_id": 20,
@@ -954,36 +933,36 @@
     {
         "nfc_id": 20,
         "service_id": 2,
-        "charge_time": "2021-05-09 09:58:04",
-        "amount": 14.02,
+        "charge_time": "2021-05-09 10:12:04",
+        "amount": 22.89,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 20,
         "service_id": 5,
-        "charge_time": "2021-05-09 06:42:04",
+        "charge_time": "2021-05-09 13:02:04",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 20,
         "service_id": 2,
-        "charge_time": "2021-05-09 08:02:04",
-        "amount": 18.01,
+        "charge_time": "2021-05-09 14:22:04",
+        "amount": 17.67,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 20,
         "service_id": 4,
-        "charge_time": "2021-05-09 08:42:04",
-        "amount": 17.28,
+        "charge_time": "2021-05-09 15:02:04",
+        "amount": 21.04,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 20,
         "service_id": 3,
-        "charge_time": "2021-05-09 09:52:04",
-        "amount": 21.05,
+        "charge_time": "2021-05-09 16:12:04",
+        "amount": 19.35,
         "charge_description": "bar"
     },
     {
@@ -997,50 +976,43 @@
         "nfc_id": 21,
         "service_id": 2,
         "charge_time": "2021-03-05 11:01:42",
-        "amount": 12.29,
+        "amount": 18.91,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 21,
         "service_id": 7,
-        "charge_time": "2021-03-05 14:01:42",
+        "charge_time": "2021-03-06 01:15:42",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 21,
         "service_id": 6,
-        "charge_time": "2021-03-05 14:31:42",
+        "charge_time": "2021-03-06 01:45:42",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 21,
         "service_id": 2,
-        "charge_time": "2021-03-05 15:41:42",
-        "amount": 16.52,
+        "charge_time": "2021-03-06 02:55:42",
+        "amount": 19.29,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 21,
         "service_id": 4,
-        "charge_time": "2021-03-05 16:21:42",
-        "amount": 24.04,
+        "charge_time": "2021-03-06 03:35:42",
+        "amount": 17.96,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 21,
         "service_id": 3,
-        "charge_time": "2021-03-05 17:31:42",
-        "amount": 6.02,
+        "charge_time": "2021-03-06 04:45:42",
+        "amount": 20.15,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 21,
-        "service_id": 2,
-        "charge_time": "2021-03-06 10:47:42",
-        "amount": 21.02,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 22,
@@ -1052,43 +1024,43 @@
     {
         "nfc_id": 22,
         "service_id": 2,
-        "charge_time": "2021-05-13 09:53:47",
-        "amount": 14.37,
+        "charge_time": "2021-05-13 09:58:47",
+        "amount": 17.01,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 22,
         "service_id": 7,
-        "charge_time": "2021-05-13 11:42:47",
+        "charge_time": "2021-05-13 12:58:47",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 22,
         "service_id": 6,
-        "charge_time": "2021-05-13 12:12:47",
+        "charge_time": "2021-05-13 13:28:47",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 22,
         "service_id": 2,
-        "charge_time": "2021-05-13 13:22:47",
-        "amount": 21.65,
+        "charge_time": "2021-05-13 14:38:47",
+        "amount": 19.96,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 22,
         "service_id": 4,
-        "charge_time": "2021-05-13 14:02:47",
-        "amount": 27.27,
+        "charge_time": "2021-05-13 15:18:47",
+        "amount": 21.05,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 22,
         "service_id": 3,
-        "charge_time": "2021-05-13 15:12:47",
-        "amount": 9.27,
+        "charge_time": "2021-05-13 16:28:47",
+        "amount": 22.02,
         "charge_description": "bar"
     },
     {
@@ -1101,36 +1073,36 @@
     {
         "nfc_id": 23,
         "service_id": 2,
-        "charge_time": "2021-04-11 09:44:26",
-        "amount": 11.05,
+        "charge_time": "2021-04-11 10:36:26",
+        "amount": 14.7,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 23,
         "service_id": 2,
-        "charge_time": "2021-04-11 13:14:26",
-        "amount": 21.91,
+        "charge_time": "2021-04-11 19:23:26",
+        "amount": 20.44,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 23,
         "service_id": 4,
-        "charge_time": "2021-04-11 13:54:26",
-        "amount": 17.75,
+        "charge_time": "2021-04-11 20:03:26",
+        "amount": 27.19,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 23,
         "service_id": 3,
-        "charge_time": "2021-04-11 15:04:26",
-        "amount": 5.25,
+        "charge_time": "2021-04-11 21:13:26",
+        "amount": 24.42,
         "charge_description": "bar"
     },
     {
         "nfc_id": 23,
         "service_id": 2,
-        "charge_time": "2021-04-12 10:20:26",
-        "amount": 18.67,
+        "charge_time": "2021-04-12 10:29:26",
+        "amount": 16.89,
         "charge_description": "restaurant"
     },
     {
@@ -1144,49 +1116,49 @@
         "nfc_id": 24,
         "service_id": 2,
         "charge_time": "2021-03-22 10:16:57",
-        "amount": 24.83,
+        "amount": 12.39,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 24,
         "service_id": 7,
-        "charge_time": "2021-03-22 05:39:57",
+        "charge_time": "2021-03-22 13:16:57",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 24,
         "service_id": 5,
-        "charge_time": "2021-03-22 06:29:57",
+        "charge_time": "2021-03-22 14:06:57",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 24,
         "service_id": 6,
-        "charge_time": "2021-03-22 06:49:57",
+        "charge_time": "2021-03-22 14:26:57",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 24,
         "service_id": 2,
-        "charge_time": "2021-03-22 07:59:57",
-        "amount": 14.65,
+        "charge_time": "2021-03-22 15:36:57",
+        "amount": 13.47,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 24,
         "service_id": 4,
-        "charge_time": "2021-03-22 08:39:57",
-        "amount": 28.47,
+        "charge_time": "2021-03-22 16:16:57",
+        "amount": 24.02,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 24,
         "service_id": 3,
-        "charge_time": "2021-03-22 09:49:57",
-        "amount": 13.67,
+        "charge_time": "2021-03-22 17:26:57",
+        "amount": 5.3,
         "charge_description": "bar"
     },
     {
@@ -1199,43 +1171,43 @@
     {
         "nfc_id": 25,
         "service_id": 2,
-        "charge_time": "2021-05-19 10:31:06",
-        "amount": 19.78,
+        "charge_time": "2021-05-19 10:59:06",
+        "amount": 15.61,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 25,
         "service_id": 6,
-        "charge_time": "2021-05-19 13:01:06",
+        "charge_time": "2021-05-19 19:25:06",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 25,
         "service_id": 2,
-        "charge_time": "2021-05-19 14:11:06",
-        "amount": 19.39,
+        "charge_time": "2021-05-19 20:35:06",
+        "amount": 10.11,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 25,
         "service_id": 4,
-        "charge_time": "2021-05-19 14:51:06",
-        "amount": 9.73,
+        "charge_time": "2021-05-19 21:15:06",
+        "amount": 16,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 25,
         "service_id": 3,
-        "charge_time": "2021-05-19 16:01:06",
-        "amount": 17.88,
+        "charge_time": "2021-05-19 22:25:06",
+        "amount": 17.02,
         "charge_description": "bar"
     },
     {
         "nfc_id": 25,
         "service_id": 2,
-        "charge_time": "2021-05-20 10:17:06",
-        "amount": 19.72,
+        "charge_time": "2021-05-20 11:41:06",
+        "amount": 12.01,
         "charge_description": "restaurant"
     },
     {
@@ -1248,36 +1220,36 @@
     {
         "nfc_id": 26,
         "service_id": 2,
-        "charge_time": "2021-05-18 09:23:56",
-        "amount": 20.26,
+        "charge_time": "2021-05-18 09:30:56",
+        "amount": 21.51,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 26,
         "service_id": 6,
-        "charge_time": "2021-05-18 02:03:56",
+        "charge_time": "2021-05-18 12:00:56",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 26,
         "service_id": 2,
-        "charge_time": "2021-05-18 03:13:56",
-        "amount": 19.58,
+        "charge_time": "2021-05-18 13:10:56",
+        "amount": 21.4,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 26,
         "service_id": 4,
-        "charge_time": "2021-05-18 03:53:56",
-        "amount": 25.24,
+        "charge_time": "2021-05-18 13:50:56",
+        "amount": 8.57,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 26,
         "service_id": 3,
-        "charge_time": "2021-05-18 05:03:56",
-        "amount": 16.87,
+        "charge_time": "2021-05-18 15:00:56",
+        "amount": 5.79,
         "charge_description": "bar"
     },
     {
@@ -1290,58 +1262,51 @@
     {
         "nfc_id": 27,
         "service_id": 2,
-        "charge_time": "2021-04-15 10:16:01",
-        "amount": 20.08,
+        "charge_time": "2021-04-15 10:57:01",
+        "amount": 21.26,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 27,
         "service_id": 7,
-        "charge_time": "2021-04-15 11:46:01",
+        "charge_time": "2021-04-15 13:57:01",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 27,
         "service_id": 5,
-        "charge_time": "2021-04-15 12:36:01",
+        "charge_time": "2021-04-15 14:47:01",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 27,
         "service_id": 6,
-        "charge_time": "2021-04-15 12:56:01",
+        "charge_time": "2021-04-15 15:07:01",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 27,
         "service_id": 2,
-        "charge_time": "2021-04-15 14:06:01",
-        "amount": 17.7,
+        "charge_time": "2021-04-15 16:17:01",
+        "amount": 10.18,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 27,
         "service_id": 4,
-        "charge_time": "2021-04-15 14:46:01",
-        "amount": 23.94,
+        "charge_time": "2021-04-15 16:57:01",
+        "amount": 11.41,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 27,
         "service_id": 3,
-        "charge_time": "2021-04-15 15:56:01",
-        "amount": 5.89,
+        "charge_time": "2021-04-15 18:07:01",
+        "amount": 19.67,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 27,
-        "service_id": 2,
-        "charge_time": "2021-04-16 10:12:01",
-        "amount": 17.94,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 28,
@@ -1354,50 +1319,43 @@
         "nfc_id": 28,
         "service_id": 2,
         "charge_time": "2021-05-10 10:36:57",
-        "amount": 15.62,
+        "amount": 14.27,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 28,
         "service_id": 7,
-        "charge_time": "2021-05-10 13:36:57",
+        "charge_time": "2021-05-11 00:50:57",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 28,
         "service_id": 5,
-        "charge_time": "2021-05-10 14:26:57",
+        "charge_time": "2021-05-11 01:40:57",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 28,
         "service_id": 2,
-        "charge_time": "2021-05-10 15:46:57",
-        "amount": 10.37,
+        "charge_time": "2021-05-11 03:00:57",
+        "amount": 15.74,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 28,
         "service_id": 4,
-        "charge_time": "2021-05-10 16:26:57",
-        "amount": 22.64,
+        "charge_time": "2021-05-11 03:40:57",
+        "amount": 9.1,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 28,
         "service_id": 3,
-        "charge_time": "2021-05-10 17:36:57",
-        "amount": 17.5,
+        "charge_time": "2021-05-11 04:50:57",
+        "amount": 5.55,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 28,
-        "service_id": 2,
-        "charge_time": "2021-05-11 10:52:57",
-        "amount": 13.11,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 29,
@@ -1409,50 +1367,50 @@
     {
         "nfc_id": 29,
         "service_id": 2,
-        "charge_time": "2021-05-10 11:13:34",
-        "amount": 21.21,
+        "charge_time": "2021-05-10 09:35:34",
+        "amount": 23.77,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 29,
         "service_id": 5,
-        "charge_time": "2021-05-10 14:03:34",
+        "charge_time": "2021-05-10 18:33:34",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 29,
         "service_id": 6,
-        "charge_time": "2021-05-10 14:23:34",
+        "charge_time": "2021-05-10 18:53:34",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 29,
         "service_id": 2,
-        "charge_time": "2021-05-10 15:33:34",
-        "amount": 15.15,
+        "charge_time": "2021-05-10 20:03:34",
+        "amount": 20.03,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 29,
         "service_id": 4,
-        "charge_time": "2021-05-10 16:13:34",
-        "amount": 8.84,
+        "charge_time": "2021-05-10 20:43:34",
+        "amount": 21.67,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 29,
         "service_id": 3,
-        "charge_time": "2021-05-10 17:23:34",
-        "amount": 18.84,
+        "charge_time": "2021-05-10 21:53:34",
+        "amount": 13.13,
         "charge_description": "bar"
     },
     {
         "nfc_id": 29,
         "service_id": 2,
-        "charge_time": "2021-05-11 10:39:34",
-        "amount": 17.19,
+        "charge_time": "2021-05-11 11:09:34",
+        "amount": 24.81,
         "charge_description": "restaurant"
     },
     {
@@ -1465,50 +1423,50 @@
     {
         "nfc_id": 30,
         "service_id": 2,
-        "charge_time": "2021-05-25 10:25:00",
-        "amount": 12.4,
+        "charge_time": "2021-05-25 10:38:00",
+        "amount": 14.96,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 30,
         "service_id": 5,
-        "charge_time": "2021-05-25 13:15:00",
+        "charge_time": "2021-05-25 19:23:00",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 30,
         "service_id": 6,
-        "charge_time": "2021-05-25 13:35:00",
+        "charge_time": "2021-05-25 19:43:00",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 30,
         "service_id": 2,
-        "charge_time": "2021-05-25 14:45:00",
-        "amount": 20.67,
+        "charge_time": "2021-05-25 20:53:00",
+        "amount": 12.54,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 30,
         "service_id": 4,
-        "charge_time": "2021-05-25 15:25:00",
-        "amount": 11.66,
+        "charge_time": "2021-05-25 21:33:00",
+        "amount": 14.79,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 30,
         "service_id": 3,
-        "charge_time": "2021-05-25 16:35:00",
-        "amount": 18.48,
+        "charge_time": "2021-05-25 22:43:00",
+        "amount": 14.96,
         "charge_description": "bar"
     },
     {
         "nfc_id": 30,
         "service_id": 2,
-        "charge_time": "2021-05-26 10:51:00",
-        "amount": 12.5,
+        "charge_time": "2021-05-26 11:59:00",
+        "amount": 10.95,
         "charge_description": "restaurant"
     },
     {
@@ -1521,43 +1479,43 @@
     {
         "nfc_id": 31,
         "service_id": 2,
-        "charge_time": "2021-05-18 10:07:18",
-        "amount": 16.21,
+        "charge_time": "2021-05-18 09:51:18",
+        "amount": 12.41,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 31,
         "service_id": 7,
-        "charge_time": "2021-05-18 13:07:18",
+        "charge_time": "2021-05-18 17:17:18",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 31,
         "service_id": 2,
-        "charge_time": "2021-05-18 14:37:18",
-        "amount": 22.26,
+        "charge_time": "2021-05-18 18:47:18",
+        "amount": 17.22,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 31,
         "service_id": 4,
-        "charge_time": "2021-05-18 15:17:18",
-        "amount": 22.19,
+        "charge_time": "2021-05-18 19:27:18",
+        "amount": 19.46,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 31,
         "service_id": 3,
-        "charge_time": "2021-05-18 16:27:18",
-        "amount": 22.21,
+        "charge_time": "2021-05-18 20:37:18",
+        "amount": 15.33,
         "charge_description": "bar"
     },
     {
         "nfc_id": 31,
         "service_id": 2,
-        "charge_time": "2021-05-19 10:43:18",
-        "amount": 16.67,
+        "charge_time": "2021-05-19 10:53:18",
+        "amount": 17.33,
         "charge_description": "restaurant"
     },
     {
@@ -1570,43 +1528,43 @@
     {
         "nfc_id": 32,
         "service_id": 2,
-        "charge_time": "2021-03-05 10:47:54",
-        "amount": 13.19,
+        "charge_time": "2021-03-05 10:58:54",
+        "amount": 13.21,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 32,
         "service_id": 5,
-        "charge_time": "2021-03-05 01:27:54",
+        "charge_time": "2021-03-05 13:48:54",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 32,
         "service_id": 6,
-        "charge_time": "2021-03-05 01:47:54",
+        "charge_time": "2021-03-05 14:08:54",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 32,
         "service_id": 2,
-        "charge_time": "2021-03-05 02:57:54",
-        "amount": 16.59,
+        "charge_time": "2021-03-05 15:18:54",
+        "amount": 19.51,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 32,
         "service_id": 4,
-        "charge_time": "2021-03-05 03:37:54",
-        "amount": 9.75,
+        "charge_time": "2021-03-05 15:58:54",
+        "amount": 13.12,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 32,
         "service_id": 3,
-        "charge_time": "2021-03-05 04:47:54",
-        "amount": 17.26,
+        "charge_time": "2021-03-05 17:08:54",
+        "amount": 12.27,
         "charge_description": "bar"
     },
     {
@@ -1619,43 +1577,43 @@
     {
         "nfc_id": 33,
         "service_id": 2,
-        "charge_time": "2021-03-12 10:45:18",
-        "amount": 18.99,
+        "charge_time": "2021-03-12 10:35:18",
+        "amount": 19.07,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 33,
         "service_id": 5,
-        "charge_time": "2021-03-12 13:35:18",
+        "charge_time": "2021-03-12 14:53:18",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 33,
         "service_id": 2,
-        "charge_time": "2021-03-12 14:55:18",
-        "amount": 11.55,
+        "charge_time": "2021-03-12 16:13:18",
+        "amount": 12.25,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 33,
         "service_id": 4,
-        "charge_time": "2021-03-12 15:35:18",
-        "amount": 17.47,
+        "charge_time": "2021-03-12 16:53:18",
+        "amount": 10.19,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 33,
         "service_id": 3,
-        "charge_time": "2021-03-12 16:45:18",
-        "amount": 14.01,
+        "charge_time": "2021-03-12 18:03:18",
+        "amount": 18.28,
         "charge_description": "bar"
     },
     {
         "nfc_id": 33,
         "service_id": 2,
-        "charge_time": "2021-03-13 11:01:18",
-        "amount": 12.06,
+        "charge_time": "2021-03-13 10:19:18",
+        "amount": 18.3,
         "charge_description": "restaurant"
     },
     {
@@ -1668,43 +1626,43 @@
     {
         "nfc_id": 34,
         "service_id": 2,
-        "charge_time": "2021-05-04 10:43:44",
-        "amount": 21.93,
+        "charge_time": "2021-05-04 10:49:44",
+        "amount": 14.86,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 34,
         "service_id": 7,
-        "charge_time": "2021-05-04 03:58:44",
+        "charge_time": "2021-05-04 13:49:44",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 34,
         "service_id": 5,
-        "charge_time": "2021-05-04 04:48:44",
+        "charge_time": "2021-05-04 14:39:44",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 34,
         "service_id": 2,
-        "charge_time": "2021-05-04 06:08:44",
-        "amount": 22.57,
+        "charge_time": "2021-05-04 15:59:44",
+        "amount": 12.97,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 34,
         "service_id": 4,
-        "charge_time": "2021-05-04 06:48:44",
-        "amount": 24.49,
+        "charge_time": "2021-05-04 16:39:44",
+        "amount": 18.79,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 34,
         "service_id": 3,
-        "charge_time": "2021-05-04 07:58:44",
-        "amount": 20.79,
+        "charge_time": "2021-05-04 17:49:44",
+        "amount": 12.82,
         "charge_description": "bar"
     },
     {
@@ -1717,50 +1675,50 @@
     {
         "nfc_id": 35,
         "service_id": 2,
-        "charge_time": "2021-05-25 10:52:00",
-        "amount": 10.05,
+        "charge_time": "2021-05-25 10:49:00",
+        "amount": 18.11,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 35,
         "service_id": 7,
-        "charge_time": "2021-05-25 13:52:00",
+        "charge_time": "2021-05-25 19:33:00",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 35,
         "service_id": 6,
-        "charge_time": "2021-05-25 14:22:00",
+        "charge_time": "2021-05-25 20:03:00",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 35,
         "service_id": 2,
-        "charge_time": "2021-05-25 15:32:00",
-        "amount": 13.86,
+        "charge_time": "2021-05-25 21:13:00",
+        "amount": 19.37,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 35,
         "service_id": 4,
-        "charge_time": "2021-05-25 16:12:00",
-        "amount": 10.77,
+        "charge_time": "2021-05-25 21:53:00",
+        "amount": 22.06,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 35,
         "service_id": 3,
-        "charge_time": "2021-05-25 17:22:00",
-        "amount": 19.27,
+        "charge_time": "2021-05-25 23:03:00",
+        "amount": 9.1,
         "charge_description": "bar"
     },
     {
         "nfc_id": 35,
         "service_id": 2,
-        "charge_time": "2021-05-26 10:38:00",
-        "amount": 15.33,
+        "charge_time": "2021-05-26 12:19:00",
+        "amount": 23.55,
         "charge_description": "restaurant"
     },
     {
@@ -1773,36 +1731,36 @@
     {
         "nfc_id": 36,
         "service_id": 2,
-        "charge_time": "2021-03-23 10:37:35",
-        "amount": 14.93,
+        "charge_time": "2021-03-23 10:17:35",
+        "amount": 24.06,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 36,
         "service_id": 5,
-        "charge_time": "2021-03-23 10:18:35",
+        "charge_time": "2021-03-23 13:07:35",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 36,
         "service_id": 2,
-        "charge_time": "2021-03-23 11:38:35",
-        "amount": 15.48,
+        "charge_time": "2021-03-23 14:27:35",
+        "amount": 15.59,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 36,
         "service_id": 4,
-        "charge_time": "2021-03-23 12:18:35",
-        "amount": 28.1,
+        "charge_time": "2021-03-23 15:07:35",
+        "amount": 9.2,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 36,
         "service_id": 3,
-        "charge_time": "2021-03-23 13:28:35",
-        "amount": 7.84,
+        "charge_time": "2021-03-23 16:17:35",
+        "amount": 23.03,
         "charge_description": "bar"
     },
     {
@@ -1815,44 +1773,37 @@
     {
         "nfc_id": 37,
         "service_id": 2,
-        "charge_time": "2021-05-02 10:15:17",
-        "amount": 12.61,
+        "charge_time": "2021-05-02 09:48:17",
+        "amount": 15.57,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 37,
         "service_id": 5,
-        "charge_time": "2021-05-02 13:05:17",
+        "charge_time": "2021-05-02 23:52:17",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 37,
         "service_id": 2,
-        "charge_time": "2021-05-02 14:25:17",
-        "amount": 15.28,
+        "charge_time": "2021-05-03 01:12:17",
+        "amount": 18.01,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 37,
         "service_id": 4,
-        "charge_time": "2021-05-02 15:05:17",
-        "amount": 13.91,
+        "charge_time": "2021-05-03 01:52:17",
+        "amount": 29.34,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 37,
         "service_id": 3,
-        "charge_time": "2021-05-02 16:15:17",
-        "amount": 7.7,
+        "charge_time": "2021-05-03 03:02:17",
+        "amount": 12.54,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 37,
-        "service_id": 2,
-        "charge_time": "2021-05-03 10:31:17",
-        "amount": 15.06,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 38,
@@ -1864,50 +1815,50 @@
     {
         "nfc_id": 38,
         "service_id": 2,
-        "charge_time": "2021-05-15 10:39:43",
-        "amount": 11.14,
+        "charge_time": "2021-05-15 10:34:43",
+        "amount": 10.48,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 38,
         "service_id": 7,
-        "charge_time": "2021-05-15 05:16:43",
+        "charge_time": "2021-05-15 13:34:43",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 38,
         "service_id": 5,
-        "charge_time": "2021-05-15 06:06:43",
+        "charge_time": "2021-05-15 14:24:43",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 38,
         "service_id": 6,
-        "charge_time": "2021-05-15 06:26:43",
+        "charge_time": "2021-05-15 14:44:43",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 38,
         "service_id": 2,
-        "charge_time": "2021-05-15 07:36:43",
-        "amount": 23.97,
+        "charge_time": "2021-05-15 15:54:43",
+        "amount": 21.32,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 38,
         "service_id": 4,
-        "charge_time": "2021-05-15 08:16:43",
-        "amount": 19.09,
+        "charge_time": "2021-05-15 16:34:43",
+        "amount": 25.87,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 38,
         "service_id": 3,
-        "charge_time": "2021-05-15 09:26:43",
-        "amount": 18.62,
+        "charge_time": "2021-05-15 17:44:43",
+        "amount": 12.16,
         "charge_description": "bar"
     },
     {
@@ -1920,36 +1871,36 @@
     {
         "nfc_id": 39,
         "service_id": 2,
-        "charge_time": "2021-03-28 10:25:30",
-        "amount": 10.17,
+        "charge_time": "2021-03-28 11:14:30",
+        "amount": 12.03,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 39,
         "service_id": 7,
-        "charge_time": "2021-03-28 11:24:30",
+        "charge_time": "2021-03-28 14:14:30",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 39,
         "service_id": 2,
-        "charge_time": "2021-03-28 12:54:30",
-        "amount": 20.38,
+        "charge_time": "2021-03-28 15:44:30",
+        "amount": 21.99,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 39,
         "service_id": 4,
-        "charge_time": "2021-03-28 13:34:30",
-        "amount": 18.24,
+        "charge_time": "2021-03-28 16:24:30",
+        "amount": 26.76,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 39,
         "service_id": 3,
-        "charge_time": "2021-03-28 14:44:30",
-        "amount": 6.82,
+        "charge_time": "2021-03-28 17:34:30",
+        "amount": 12.23,
         "charge_description": "bar"
     },
     {
@@ -1962,43 +1913,43 @@
     {
         "nfc_id": 40,
         "service_id": 2,
-        "charge_time": "2021-03-29 10:13:38",
-        "amount": 22.43,
+        "charge_time": "2021-03-29 11:14:38",
+        "amount": 16.66,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 40,
         "service_id": 7,
-        "charge_time": "2021-03-29 11:32:38",
+        "charge_time": "2021-03-29 14:14:38",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 40,
         "service_id": 6,
-        "charge_time": "2021-03-29 12:02:38",
+        "charge_time": "2021-03-29 14:44:38",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 40,
         "service_id": 2,
-        "charge_time": "2021-03-29 13:12:38",
-        "amount": 13.35,
+        "charge_time": "2021-03-29 15:54:38",
+        "amount": 16.41,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 40,
         "service_id": 4,
-        "charge_time": "2021-03-29 13:52:38",
-        "amount": 15.26,
+        "charge_time": "2021-03-29 16:34:38",
+        "amount": 13.31,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 40,
         "service_id": 3,
-        "charge_time": "2021-03-29 15:02:38",
-        "amount": 23.15,
+        "charge_time": "2021-03-29 17:44:38",
+        "amount": 6.36,
         "charge_description": "bar"
     },
     {
@@ -2011,43 +1962,43 @@
     {
         "nfc_id": 41,
         "service_id": 2,
-        "charge_time": "2021-05-25 10:52:00",
-        "amount": 10.46,
+        "charge_time": "2021-05-25 09:19:00",
+        "amount": 17.13,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 41,
         "service_id": 7,
-        "charge_time": "2021-05-25 13:52:00",
+        "charge_time": "2021-05-25 19:33:00",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 41,
         "service_id": 2,
-        "charge_time": "2021-05-25 15:22:00",
-        "amount": 10.6,
+        "charge_time": "2021-05-25 21:03:00",
+        "amount": 24.22,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 41,
         "service_id": 4,
-        "charge_time": "2021-05-25 16:02:00",
-        "amount": 13.74,
+        "charge_time": "2021-05-25 21:43:00",
+        "amount": 29.73,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 41,
         "service_id": 3,
-        "charge_time": "2021-05-25 17:12:00",
-        "amount": 17.18,
+        "charge_time": "2021-05-25 22:53:00",
+        "amount": 19.37,
         "charge_description": "bar"
     },
     {
         "nfc_id": 41,
         "service_id": 2,
-        "charge_time": "2021-05-26 10:28:00",
-        "amount": 13.48,
+        "charge_time": "2021-05-26 12:09:00",
+        "amount": 24.37,
         "charge_description": "restaurant"
     },
     {
@@ -2060,43 +2011,43 @@
     {
         "nfc_id": 42,
         "service_id": 2,
-        "charge_time": "2021-05-05 10:47:10",
-        "amount": 14.56,
+        "charge_time": "2021-05-05 11:11:10",
+        "amount": 23.69,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 42,
         "service_id": 5,
-        "charge_time": "2021-05-05 06:21:10",
+        "charge_time": "2021-05-05 14:01:10",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 42,
         "service_id": 6,
-        "charge_time": "2021-05-05 06:41:10",
+        "charge_time": "2021-05-05 14:21:10",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 42,
         "service_id": 2,
-        "charge_time": "2021-05-05 07:51:10",
-        "amount": 14.96,
+        "charge_time": "2021-05-05 15:31:10",
+        "amount": 23.83,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 42,
         "service_id": 4,
-        "charge_time": "2021-05-05 08:31:10",
-        "amount": 9.55,
+        "charge_time": "2021-05-05 16:11:10",
+        "amount": 19.7,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 42,
         "service_id": 3,
-        "charge_time": "2021-05-05 09:41:10",
-        "amount": 8.09,
+        "charge_time": "2021-05-05 17:21:10",
+        "amount": 16.18,
         "charge_description": "bar"
     },
     {
@@ -2109,58 +2060,51 @@
     {
         "nfc_id": 43,
         "service_id": 2,
-        "charge_time": "2021-05-06 10:37:59",
-        "amount": 22.18,
+        "charge_time": "2021-05-06 10:39:59",
+        "amount": 14.33,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 43,
         "service_id": 7,
-        "charge_time": "2021-05-06 13:37:59",
+        "charge_time": "2021-05-06 20:46:59",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 43,
         "service_id": 5,
-        "charge_time": "2021-05-06 14:27:59",
+        "charge_time": "2021-05-06 21:36:59",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 43,
         "service_id": 6,
-        "charge_time": "2021-05-06 14:47:59",
+        "charge_time": "2021-05-06 21:56:59",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 43,
         "service_id": 2,
-        "charge_time": "2021-05-06 15:57:59",
-        "amount": 15.98,
+        "charge_time": "2021-05-06 23:06:59",
+        "amount": 18.29,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 43,
         "service_id": 4,
-        "charge_time": "2021-05-06 16:37:59",
-        "amount": 26.47,
+        "charge_time": "2021-05-06 23:46:59",
+        "amount": 25.74,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 43,
         "service_id": 3,
-        "charge_time": "2021-05-06 17:47:59",
-        "amount": 6.76,
+        "charge_time": "2021-05-07 00:56:59",
+        "amount": 9.35,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 43,
-        "service_id": 2,
-        "charge_time": "2021-05-07 11:03:59",
-        "amount": 10.98,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 44,
@@ -2172,8 +2116,8 @@
     {
         "nfc_id": 44,
         "service_id": 2,
-        "charge_time": "2021-04-07 11:08:02",
-        "amount": 23.75,
+        "charge_time": "2021-04-07 09:55:02",
+        "amount": 22.12,
         "charge_description": "restaurant"
     },
     {
@@ -2194,28 +2138,28 @@
         "nfc_id": 44,
         "service_id": 2,
         "charge_time": "2021-04-07 16:43:02",
-        "amount": 15.73,
+        "amount": 24.26,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 44,
         "service_id": 4,
         "charge_time": "2021-04-07 17:23:02",
-        "amount": 26.67,
+        "amount": 19.9,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 44,
         "service_id": 3,
         "charge_time": "2021-04-07 18:33:02",
-        "amount": 9.57,
+        "amount": 5.33,
         "charge_description": "bar"
     },
     {
         "nfc_id": 44,
         "service_id": 2,
         "charge_time": "2021-04-08 10:49:02",
-        "amount": 12.83,
+        "amount": 20.29,
         "charge_description": "restaurant"
     },
     {
@@ -2229,35 +2173,35 @@
         "nfc_id": 45,
         "service_id": 2,
         "charge_time": "2021-05-01 10:42:51",
-        "amount": 11.49,
+        "amount": 14.6,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 45,
         "service_id": 7,
-        "charge_time": "2021-05-01 13:42:51",
+        "charge_time": "2021-05-02 00:56:51",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 45,
         "service_id": 2,
-        "charge_time": "2021-05-01 15:12:51",
-        "amount": 15.2,
+        "charge_time": "2021-05-02 02:26:51",
+        "amount": 16.85,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 45,
         "service_id": 4,
-        "charge_time": "2021-05-01 15:52:51",
-        "amount": 23.22,
+        "charge_time": "2021-05-02 03:06:51",
+        "amount": 13.05,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 45,
         "service_id": 3,
-        "charge_time": "2021-05-01 17:02:51",
-        "amount": 13.64,
+        "charge_time": "2021-05-02 04:16:51",
+        "amount": 15.41,
         "charge_description": "bar"
     },
     {
@@ -2270,29 +2214,29 @@
     {
         "nfc_id": 46,
         "service_id": 2,
-        "charge_time": "2021-05-05 09:51:10",
-        "amount": 22.79,
+        "charge_time": "2021-05-05 10:03:10",
+        "amount": 18.61,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 46,
         "service_id": 2,
-        "charge_time": "2021-05-05 07:01:10",
-        "amount": 11.51,
+        "charge_time": "2021-05-05 13:33:10",
+        "amount": 14.92,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 46,
         "service_id": 4,
-        "charge_time": "2021-05-05 07:41:10",
-        "amount": 16.57,
+        "charge_time": "2021-05-05 14:13:10",
+        "amount": 14.09,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 46,
         "service_id": 3,
-        "charge_time": "2021-05-05 08:51:10",
-        "amount": 21.14,
+        "charge_time": "2021-05-05 15:23:10",
+        "amount": 14.41,
         "charge_description": "bar"
     },
     {
@@ -2306,43 +2250,36 @@
         "nfc_id": 47,
         "service_id": 2,
         "charge_time": "2021-04-20 10:18:35",
-        "amount": 20.06,
+        "amount": 16.1,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 47,
         "service_id": 5,
-        "charge_time": "2021-04-20 13:08:35",
+        "charge_time": "2021-04-21 00:22:35",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 47,
         "service_id": 2,
-        "charge_time": "2021-04-20 14:28:35",
-        "amount": 17.85,
+        "charge_time": "2021-04-21 01:42:35",
+        "amount": 16.49,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 47,
         "service_id": 4,
-        "charge_time": "2021-04-20 15:08:35",
-        "amount": 27.22,
+        "charge_time": "2021-04-21 02:22:35",
+        "amount": 10.5,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 47,
         "service_id": 3,
-        "charge_time": "2021-04-20 16:18:35",
-        "amount": 18.52,
+        "charge_time": "2021-04-21 03:32:35",
+        "amount": 22.12,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 47,
-        "service_id": 2,
-        "charge_time": "2021-04-21 10:34:35",
-        "amount": 23.34,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 48,
@@ -2354,57 +2291,57 @@
     {
         "nfc_id": 48,
         "service_id": 2,
-        "charge_time": "2021-05-04 10:53:55",
-        "amount": 24.91,
+        "charge_time": "2021-05-04 10:41:55",
+        "amount": 13.68,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 48,
         "service_id": 7,
-        "charge_time": "2021-05-04 11:59:55",
+        "charge_time": "2021-05-04 13:41:55",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 48,
         "service_id": 5,
-        "charge_time": "2021-05-04 12:49:55",
+        "charge_time": "2021-05-04 14:31:55",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 48,
         "service_id": 6,
-        "charge_time": "2021-05-04 13:09:55",
+        "charge_time": "2021-05-04 14:51:55",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 48,
         "service_id": 2,
-        "charge_time": "2021-05-04 14:19:55",
-        "amount": 21.89,
+        "charge_time": "2021-05-04 16:01:55",
+        "amount": 17.16,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 48,
         "service_id": 4,
-        "charge_time": "2021-05-04 14:59:55",
-        "amount": 29.73,
+        "charge_time": "2021-05-04 16:41:55",
+        "amount": 26.26,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 48,
         "service_id": 3,
-        "charge_time": "2021-05-04 16:09:55",
-        "amount": 18.06,
+        "charge_time": "2021-05-04 17:51:55",
+        "amount": 16.03,
         "charge_description": "bar"
     },
     {
         "nfc_id": 48,
         "service_id": 2,
-        "charge_time": "2021-05-05 10:25:55",
-        "amount": 15.78,
+        "charge_time": "2021-05-05 10:07:55",
+        "amount": 11.21,
         "charge_description": "restaurant"
     },
     {
@@ -2418,43 +2355,36 @@
         "nfc_id": 49,
         "service_id": 2,
         "charge_time": "2021-03-28 11:00:48",
-        "amount": 16.26,
+        "amount": 19.84,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 49,
         "service_id": 5,
-        "charge_time": "2021-03-28 13:50:48",
+        "charge_time": "2021-03-29 01:04:48",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 49,
         "service_id": 2,
-        "charge_time": "2021-03-28 15:10:48",
-        "amount": 13.38,
+        "charge_time": "2021-03-29 02:24:48",
+        "amount": 22.48,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 49,
         "service_id": 4,
-        "charge_time": "2021-03-28 15:50:48",
-        "amount": 25.68,
+        "charge_time": "2021-03-29 03:04:48",
+        "amount": 19.66,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 49,
         "service_id": 3,
-        "charge_time": "2021-03-28 17:00:48",
-        "amount": 7.54,
+        "charge_time": "2021-03-29 04:14:48",
+        "amount": 7.88,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 49,
-        "service_id": 2,
-        "charge_time": "2021-03-29 10:16:48",
-        "amount": 10.24,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 50,
@@ -2466,50 +2396,50 @@
     {
         "nfc_id": 50,
         "service_id": 2,
-        "charge_time": "2021-03-30 09:16:04",
-        "amount": 22.73,
+        "charge_time": "2021-03-30 10:51:04",
+        "amount": 20,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 50,
         "service_id": 7,
-        "charge_time": "2021-03-30 08:08:04",
+        "charge_time": "2021-03-30 13:51:04",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 50,
         "service_id": 5,
-        "charge_time": "2021-03-30 08:58:04",
+        "charge_time": "2021-03-30 14:41:04",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 50,
         "service_id": 2,
-        "charge_time": "2021-03-30 10:18:04",
-        "amount": 11.1,
+        "charge_time": "2021-03-30 16:01:04",
+        "amount": 22.02,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 50,
         "service_id": 4,
-        "charge_time": "2021-03-30 10:58:04",
-        "amount": 15.22,
+        "charge_time": "2021-03-30 16:41:04",
+        "amount": 25.45,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 50,
         "service_id": 3,
-        "charge_time": "2021-03-30 12:08:04",
-        "amount": 23.65,
+        "charge_time": "2021-03-30 17:51:04",
+        "amount": 18.91,
         "charge_description": "bar"
     },
     {
         "nfc_id": 50,
         "service_id": 2,
-        "charge_time": "2021-03-31 10:24:04",
-        "amount": 12.18,
+        "charge_time": "2021-03-31 10:07:04",
+        "amount": 11.13,
         "charge_description": "restaurant"
     },
     {
@@ -2522,43 +2452,43 @@
     {
         "nfc_id": 51,
         "service_id": 2,
-        "charge_time": "2021-03-22 11:12:57",
-        "amount": 10.89,
+        "charge_time": "2021-03-22 10:41:57",
+        "amount": 16.55,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 51,
         "service_id": 7,
-        "charge_time": "2021-03-22 05:39:57",
+        "charge_time": "2021-03-22 13:41:57",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 51,
         "service_id": 5,
-        "charge_time": "2021-03-22 06:29:57",
+        "charge_time": "2021-03-22 14:31:57",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 51,
         "service_id": 2,
-        "charge_time": "2021-03-22 07:49:57",
-        "amount": 13.2,
+        "charge_time": "2021-03-22 15:51:57",
+        "amount": 17.8,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 51,
         "service_id": 4,
-        "charge_time": "2021-03-22 08:29:57",
-        "amount": 22.37,
+        "charge_time": "2021-03-22 16:31:57",
+        "amount": 10.77,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 51,
         "service_id": 3,
-        "charge_time": "2021-03-22 09:39:57",
-        "amount": 14.41,
+        "charge_time": "2021-03-22 17:41:57",
+        "amount": 6.86,
         "charge_description": "bar"
     },
     {
@@ -2571,43 +2501,43 @@
     {
         "nfc_id": 52,
         "service_id": 2,
-        "charge_time": "2021-04-23 09:17:53",
-        "amount": 21.64,
+        "charge_time": "2021-04-23 10:00:53",
+        "amount": 23.12,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 52,
         "service_id": 7,
-        "charge_time": "2021-04-23 08:07:53",
+        "charge_time": "2021-04-23 13:00:53",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 52,
         "service_id": 6,
-        "charge_time": "2021-04-23 08:37:53",
+        "charge_time": "2021-04-23 13:30:53",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 52,
         "service_id": 2,
-        "charge_time": "2021-04-23 09:47:53",
-        "amount": 10.59,
+        "charge_time": "2021-04-23 14:40:53",
+        "amount": 22.59,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 52,
         "service_id": 4,
-        "charge_time": "2021-04-23 10:27:53",
-        "amount": 22.24,
+        "charge_time": "2021-04-23 15:20:53",
+        "amount": 9.54,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 52,
         "service_id": 3,
-        "charge_time": "2021-04-23 11:37:53",
-        "amount": 10.74,
+        "charge_time": "2021-04-23 16:30:53",
+        "amount": 20.41,
         "charge_description": "bar"
     },
     {
@@ -2620,36 +2550,36 @@
     {
         "nfc_id": 53,
         "service_id": 2,
-        "charge_time": "2021-03-10 10:49:47",
-        "amount": 11.06,
+        "charge_time": "2021-03-10 11:11:47",
+        "amount": 19.8,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 53,
         "service_id": 5,
-        "charge_time": "2021-03-10 06:54:47",
+        "charge_time": "2021-03-10 14:01:47",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 53,
         "service_id": 2,
-        "charge_time": "2021-03-10 08:14:47",
-        "amount": 21.95,
+        "charge_time": "2021-03-10 15:21:47",
+        "amount": 14.18,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 53,
         "service_id": 4,
-        "charge_time": "2021-03-10 08:54:47",
-        "amount": 9.26,
+        "charge_time": "2021-03-10 16:01:47",
+        "amount": 19.77,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 53,
         "service_id": 3,
-        "charge_time": "2021-03-10 10:04:47",
-        "amount": 9.89,
+        "charge_time": "2021-03-10 17:11:47",
+        "amount": 12.6,
         "charge_description": "bar"
     },
     {
@@ -2662,36 +2592,36 @@
     {
         "nfc_id": 54,
         "service_id": 2,
-        "charge_time": "2021-04-21 10:36:25",
-        "amount": 24.29,
+        "charge_time": "2021-04-21 09:28:25",
+        "amount": 13.07,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 54,
         "service_id": 5,
-        "charge_time": "2021-04-21 05:29:25",
+        "charge_time": "2021-04-21 12:18:25",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 54,
         "service_id": 2,
-        "charge_time": "2021-04-21 06:49:25",
-        "amount": 11.14,
+        "charge_time": "2021-04-21 13:38:25",
+        "amount": 10.88,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 54,
         "service_id": 4,
-        "charge_time": "2021-04-21 07:29:25",
-        "amount": 22.85,
+        "charge_time": "2021-04-21 14:18:25",
+        "amount": 16.56,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 54,
         "service_id": 3,
-        "charge_time": "2021-04-21 08:39:25",
-        "amount": 20.96,
+        "charge_time": "2021-04-21 15:28:25",
+        "amount": 7.29,
         "charge_description": "bar"
     },
     {
@@ -2704,43 +2634,43 @@
     {
         "nfc_id": 55,
         "service_id": 2,
-        "charge_time": "2021-03-22 11:09:57",
-        "amount": 12.6,
+        "charge_time": "2021-03-22 10:00:57",
+        "amount": 14.94,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 55,
         "service_id": 7,
-        "charge_time": "2021-03-22 05:39:57",
+        "charge_time": "2021-03-22 13:00:57",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 55,
         "service_id": 6,
-        "charge_time": "2021-03-22 06:09:57",
+        "charge_time": "2021-03-22 13:30:57",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 55,
         "service_id": 2,
-        "charge_time": "2021-03-22 07:19:57",
-        "amount": 14.11,
+        "charge_time": "2021-03-22 14:40:57",
+        "amount": 21.74,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 55,
         "service_id": 4,
-        "charge_time": "2021-03-22 07:59:57",
-        "amount": 26.22,
+        "charge_time": "2021-03-22 15:20:57",
+        "amount": 26.09,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 55,
         "service_id": 3,
-        "charge_time": "2021-03-22 09:09:57",
-        "amount": 8.25,
+        "charge_time": "2021-03-22 16:30:57",
+        "amount": 5.14,
         "charge_description": "bar"
     },
     {
@@ -2753,43 +2683,43 @@
     {
         "nfc_id": 56,
         "service_id": 2,
-        "charge_time": "2021-05-12 09:46:39",
-        "amount": 21.83,
+        "charge_time": "2021-05-12 10:46:39",
+        "amount": 22.18,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 56,
         "service_id": 5,
-        "charge_time": "2021-05-12 04:16:39",
+        "charge_time": "2021-05-12 13:36:39",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 56,
         "service_id": 6,
-        "charge_time": "2021-05-12 04:36:39",
+        "charge_time": "2021-05-12 13:56:39",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 56,
         "service_id": 2,
-        "charge_time": "2021-05-12 05:46:39",
-        "amount": 15.54,
+        "charge_time": "2021-05-12 15:06:39",
+        "amount": 20.27,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 56,
         "service_id": 4,
-        "charge_time": "2021-05-12 06:26:39",
-        "amount": 19.19,
+        "charge_time": "2021-05-12 15:46:39",
+        "amount": 12.43,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 56,
         "service_id": 3,
-        "charge_time": "2021-05-12 07:36:39",
-        "amount": 14.52,
+        "charge_time": "2021-05-12 16:56:39",
+        "amount": 22.94,
         "charge_description": "bar"
     },
     {
@@ -2802,50 +2732,50 @@
     {
         "nfc_id": 57,
         "service_id": 2,
-        "charge_time": "2021-04-09 10:34:02",
-        "amount": 21.66,
+        "charge_time": "2021-04-09 09:23:02",
+        "amount": 17.94,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 57,
         "service_id": 5,
-        "charge_time": "2021-04-09 13:24:02",
+        "charge_time": "2021-04-09 15:55:02",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 57,
         "service_id": 6,
-        "charge_time": "2021-04-09 13:44:02",
+        "charge_time": "2021-04-09 16:15:02",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 57,
         "service_id": 2,
-        "charge_time": "2021-04-09 14:54:02",
-        "amount": 24.77,
+        "charge_time": "2021-04-09 17:25:02",
+        "amount": 22.94,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 57,
         "service_id": 4,
-        "charge_time": "2021-04-09 15:34:02",
-        "amount": 17.43,
+        "charge_time": "2021-04-09 18:05:02",
+        "amount": 11.16,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 57,
         "service_id": 3,
-        "charge_time": "2021-04-09 16:44:02",
-        "amount": 24.34,
+        "charge_time": "2021-04-09 19:15:02",
+        "amount": 11.45,
         "charge_description": "bar"
     },
     {
         "nfc_id": 57,
         "service_id": 2,
-        "charge_time": "2021-04-10 11:00:02",
-        "amount": 12.06,
+        "charge_time": "2021-04-10 10:31:02",
+        "amount": 23.81,
         "charge_description": "restaurant"
     },
     {
@@ -2858,43 +2788,43 @@
     {
         "nfc_id": 58,
         "service_id": 2,
-        "charge_time": "2021-03-08 09:24:55",
-        "amount": 13.71,
+        "charge_time": "2021-03-08 09:16:55",
+        "amount": 14.68,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 58,
         "service_id": 7,
-        "charge_time": "2021-03-08 06:05:55",
+        "charge_time": "2021-03-08 12:16:55",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 58,
         "service_id": 5,
-        "charge_time": "2021-03-08 06:55:55",
+        "charge_time": "2021-03-08 13:06:55",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 58,
         "service_id": 2,
-        "charge_time": "2021-03-08 08:15:55",
-        "amount": 18.29,
+        "charge_time": "2021-03-08 14:26:55",
+        "amount": 14.13,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 58,
         "service_id": 4,
-        "charge_time": "2021-03-08 08:55:55",
-        "amount": 9.14,
+        "charge_time": "2021-03-08 15:06:55",
+        "amount": 14.05,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 58,
         "service_id": 3,
-        "charge_time": "2021-03-08 10:05:55",
-        "amount": 9.76,
+        "charge_time": "2021-03-08 16:16:55",
+        "amount": 11.65,
         "charge_description": "bar"
     },
     {
@@ -2907,36 +2837,36 @@
     {
         "nfc_id": 59,
         "service_id": 2,
-        "charge_time": "2021-03-23 09:31:35",
-        "amount": 23.52,
+        "charge_time": "2021-03-23 10:14:35",
+        "amount": 12.02,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 59,
         "service_id": 7,
-        "charge_time": "2021-03-23 10:28:35",
+        "charge_time": "2021-03-23 13:14:35",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 59,
         "service_id": 2,
-        "charge_time": "2021-03-23 11:58:35",
-        "amount": 10.73,
+        "charge_time": "2021-03-23 14:44:35",
+        "amount": 14.06,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 59,
         "service_id": 4,
-        "charge_time": "2021-03-23 12:38:35",
-        "amount": 21.67,
+        "charge_time": "2021-03-23 15:24:35",
+        "amount": 29.41,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 59,
         "service_id": 3,
-        "charge_time": "2021-03-23 13:48:35",
-        "amount": 9.22,
+        "charge_time": "2021-03-23 16:34:35",
+        "amount": 15.92,
         "charge_description": "bar"
     },
     {
@@ -2949,29 +2879,29 @@
     {
         "nfc_id": 60,
         "service_id": 2,
-        "charge_time": "2021-03-14 09:37:50",
-        "amount": 10.02,
+        "charge_time": "2021-03-14 10:38:50",
+        "amount": 16.41,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 60,
         "service_id": 2,
-        "charge_time": "2021-03-14 09:41:50",
-        "amount": 13.86,
+        "charge_time": "2021-03-14 14:08:50",
+        "amount": 22.79,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 60,
         "service_id": 4,
-        "charge_time": "2021-03-14 10:21:50",
-        "amount": 24.78,
+        "charge_time": "2021-03-14 14:48:50",
+        "amount": 29.8,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 60,
         "service_id": 3,
-        "charge_time": "2021-03-14 11:31:50",
-        "amount": 22.43,
+        "charge_time": "2021-03-14 15:58:50",
+        "amount": 18.65,
         "charge_description": "bar"
     },
     {
@@ -2984,43 +2914,43 @@
     {
         "nfc_id": 61,
         "service_id": 2,
-        "charge_time": "2021-04-07 10:07:02",
-        "amount": 13.23,
+        "charge_time": "2021-04-07 09:24:02",
+        "amount": 17.03,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 61,
         "service_id": 5,
-        "charge_time": "2021-04-07 12:57:02",
+        "charge_time": "2021-04-07 14:23:02",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 61,
         "service_id": 2,
-        "charge_time": "2021-04-07 14:17:02",
-        "amount": 19.7,
+        "charge_time": "2021-04-07 15:43:02",
+        "amount": 10.77,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 61,
         "service_id": 4,
-        "charge_time": "2021-04-07 14:57:02",
-        "amount": 28.62,
+        "charge_time": "2021-04-07 16:23:02",
+        "amount": 15.82,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 61,
         "service_id": 3,
-        "charge_time": "2021-04-07 16:07:02",
-        "amount": 5.2,
+        "charge_time": "2021-04-07 17:33:02",
+        "amount": 22.96,
         "charge_description": "bar"
     },
     {
         "nfc_id": 61,
         "service_id": 2,
-        "charge_time": "2021-04-08 10:23:02",
-        "amount": 11.89,
+        "charge_time": "2021-04-08 10:49:02",
+        "amount": 21.23,
         "charge_description": "restaurant"
     },
     {
@@ -3033,50 +2963,50 @@
     {
         "nfc_id": 62,
         "service_id": 2,
-        "charge_time": "2021-03-28 11:10:30",
-        "amount": 11.52,
+        "charge_time": "2021-03-28 10:26:30",
+        "amount": 23.19,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 62,
         "service_id": 7,
-        "charge_time": "2021-03-28 11:24:30",
+        "charge_time": "2021-03-28 13:26:30",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 62,
         "service_id": 5,
-        "charge_time": "2021-03-28 12:14:30",
+        "charge_time": "2021-03-28 14:16:30",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 62,
         "service_id": 6,
-        "charge_time": "2021-03-28 12:34:30",
+        "charge_time": "2021-03-28 14:36:30",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 62,
         "service_id": 2,
-        "charge_time": "2021-03-28 13:44:30",
-        "amount": 19.71,
+        "charge_time": "2021-03-28 15:46:30",
+        "amount": 21.43,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 62,
         "service_id": 4,
-        "charge_time": "2021-03-28 14:24:30",
-        "amount": 11.75,
+        "charge_time": "2021-03-28 16:26:30",
+        "amount": 15.21,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 62,
         "service_id": 3,
-        "charge_time": "2021-03-28 15:34:30",
-        "amount": 17.57,
+        "charge_time": "2021-03-28 17:36:30",
+        "amount": 6.41,
         "charge_description": "bar"
     },
     {
@@ -3089,36 +3019,36 @@
     {
         "nfc_id": 63,
         "service_id": 2,
-        "charge_time": "2021-04-21 10:25:24",
-        "amount": 12.06,
+        "charge_time": "2021-04-21 11:01:24",
+        "amount": 16.56,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 63,
         "service_id": 7,
-        "charge_time": "2021-04-21 09:59:24",
+        "charge_time": "2021-04-21 14:01:24",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 63,
         "service_id": 2,
-        "charge_time": "2021-04-21 11:29:24",
-        "amount": 24.15,
+        "charge_time": "2021-04-21 15:31:24",
+        "amount": 14.65,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 63,
         "service_id": 4,
-        "charge_time": "2021-04-21 12:09:24",
-        "amount": 17.15,
+        "charge_time": "2021-04-21 16:11:24",
+        "amount": 15.24,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 63,
         "service_id": 3,
-        "charge_time": "2021-04-21 13:19:24",
-        "amount": 8.98,
+        "charge_time": "2021-04-21 17:21:24",
+        "amount": 8.55,
         "charge_description": "bar"
     },
     {
@@ -3131,43 +3061,43 @@
     {
         "nfc_id": 64,
         "service_id": 2,
-        "charge_time": "2021-05-18 10:19:07",
-        "amount": 14.2,
+        "charge_time": "2021-05-18 10:20:07",
+        "amount": 10.43,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 64,
         "service_id": 5,
-        "charge_time": "2021-05-18 13:06:07",
+        "charge_time": "2021-05-18 13:10:07",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 64,
         "service_id": 2,
-        "charge_time": "2021-05-18 14:26:07",
-        "amount": 21.23,
+        "charge_time": "2021-05-18 14:30:07",
+        "amount": 21.59,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 64,
         "service_id": 4,
-        "charge_time": "2021-05-18 15:06:07",
-        "amount": 8.6,
+        "charge_time": "2021-05-18 15:10:07",
+        "amount": 17.38,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 64,
         "service_id": 3,
-        "charge_time": "2021-05-18 16:16:07",
-        "amount": 11.8,
+        "charge_time": "2021-05-18 16:20:07",
+        "amount": 5.15,
         "charge_description": "bar"
     },
     {
         "nfc_id": 64,
         "service_id": 2,
-        "charge_time": "2021-05-19 10:32:07",
-        "amount": 22.5,
+        "charge_time": "2021-05-19 10:36:07",
+        "amount": 16.31,
         "charge_description": "restaurant"
     },
     {
@@ -3180,29 +3110,29 @@
     {
         "nfc_id": 65,
         "service_id": 2,
-        "charge_time": "2021-03-14 11:05:50",
-        "amount": 14.96,
+        "charge_time": "2021-03-14 11:08:50",
+        "amount": 10.64,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 65,
         "service_id": 2,
-        "charge_time": "2021-03-14 09:41:50",
-        "amount": 20.38,
+        "charge_time": "2021-03-14 14:38:50",
+        "amount": 18.97,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 65,
         "service_id": 4,
-        "charge_time": "2021-03-14 10:21:50",
-        "amount": 9.94,
+        "charge_time": "2021-03-14 15:18:50",
+        "amount": 11.36,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 65,
         "service_id": 3,
-        "charge_time": "2021-03-14 11:31:50",
-        "amount": 23.85,
+        "charge_time": "2021-03-14 16:28:50",
+        "amount": 23.28,
         "charge_description": "bar"
     },
     {
@@ -3215,57 +3145,57 @@
     {
         "nfc_id": 66,
         "service_id": 2,
-        "charge_time": "2021-04-12 09:22:12",
-        "amount": 22.41,
+        "charge_time": "2021-04-12 09:55:12",
+        "amount": 10.11,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 66,
         "service_id": 7,
-        "charge_time": "2021-04-12 12:22:12",
+        "charge_time": "2021-04-12 15:32:12",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 66,
         "service_id": 5,
-        "charge_time": "2021-04-12 13:12:12",
+        "charge_time": "2021-04-12 16:22:12",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 66,
         "service_id": 6,
-        "charge_time": "2021-04-12 13:32:12",
+        "charge_time": "2021-04-12 16:42:12",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 66,
         "service_id": 2,
-        "charge_time": "2021-04-12 14:42:12",
-        "amount": 18.82,
+        "charge_time": "2021-04-12 17:52:12",
+        "amount": 11.5,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 66,
         "service_id": 4,
-        "charge_time": "2021-04-12 15:22:12",
-        "amount": 16.02,
+        "charge_time": "2021-04-12 18:32:12",
+        "amount": 29.44,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 66,
         "service_id": 3,
-        "charge_time": "2021-04-12 16:32:12",
-        "amount": 18.07,
+        "charge_time": "2021-04-12 19:42:12",
+        "amount": 22.73,
         "charge_description": "bar"
     },
     {
         "nfc_id": 66,
         "service_id": 2,
-        "charge_time": "2021-04-13 10:48:12",
-        "amount": 16.17,
+        "charge_time": "2021-04-13 10:58:12",
+        "amount": 21.76,
         "charge_description": "restaurant"
     },
     {
@@ -3278,43 +3208,43 @@
     {
         "nfc_id": 67,
         "service_id": 2,
-        "charge_time": "2021-03-03 11:06:50",
-        "amount": 12.95,
+        "charge_time": "2021-03-03 09:33:50",
+        "amount": 14.5,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 67,
         "service_id": 7,
-        "charge_time": "2021-03-03 14:06:50",
+        "charge_time": "2021-03-03 17:29:50",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 67,
         "service_id": 2,
-        "charge_time": "2021-03-03 15:36:50",
-        "amount": 14.99,
+        "charge_time": "2021-03-03 18:59:50",
+        "amount": 11.44,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 67,
         "service_id": 4,
-        "charge_time": "2021-03-03 16:16:50",
-        "amount": 9.51,
+        "charge_time": "2021-03-03 19:39:50",
+        "amount": 24.1,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 67,
         "service_id": 3,
-        "charge_time": "2021-03-03 17:26:50",
-        "amount": 8.4,
+        "charge_time": "2021-03-03 20:49:50",
+        "amount": 8.61,
         "charge_description": "bar"
     },
     {
         "nfc_id": 67,
         "service_id": 2,
-        "charge_time": "2021-03-04 10:42:50",
-        "amount": 14.32,
+        "charge_time": "2021-03-04 11:05:50",
+        "amount": 10.92,
         "charge_description": "restaurant"
     },
     {
@@ -3327,50 +3257,50 @@
     {
         "nfc_id": 68,
         "service_id": 2,
-        "charge_time": "2021-03-03 09:17:50",
-        "amount": 10.31,
+        "charge_time": "2021-03-03 10:42:50",
+        "amount": 19.25,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 68,
         "service_id": 5,
-        "charge_time": "2021-03-03 12:07:50",
+        "charge_time": "2021-03-03 17:19:50",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 68,
         "service_id": 6,
-        "charge_time": "2021-03-03 12:27:50",
+        "charge_time": "2021-03-03 17:39:50",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 68,
         "service_id": 2,
-        "charge_time": "2021-03-03 13:37:50",
-        "amount": 13.11,
+        "charge_time": "2021-03-03 18:49:50",
+        "amount": 12.69,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 68,
         "service_id": 4,
-        "charge_time": "2021-03-03 14:17:50",
-        "amount": 16.18,
+        "charge_time": "2021-03-03 19:29:50",
+        "amount": 13.63,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 68,
         "service_id": 3,
-        "charge_time": "2021-03-03 15:27:50",
-        "amount": 6.97,
+        "charge_time": "2021-03-03 20:39:50",
+        "amount": 14.76,
         "charge_description": "bar"
     },
     {
         "nfc_id": 68,
         "service_id": 2,
-        "charge_time": "2021-03-04 10:43:50",
-        "amount": 13.84,
+        "charge_time": "2021-03-04 10:55:50",
+        "amount": 16.1,
         "charge_description": "restaurant"
     },
     {
@@ -3383,57 +3313,57 @@
     {
         "nfc_id": 69,
         "service_id": 2,
-        "charge_time": "2021-05-20 10:38:47",
-        "amount": 16.41,
+        "charge_time": "2021-05-20 09:17:47",
+        "amount": 17.2,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 69,
         "service_id": 7,
-        "charge_time": "2021-05-20 13:38:47",
+        "charge_time": "2021-05-20 17:33:47",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 69,
         "service_id": 5,
-        "charge_time": "2021-05-20 14:28:47",
+        "charge_time": "2021-05-20 18:23:47",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 69,
         "service_id": 6,
-        "charge_time": "2021-05-20 14:48:47",
+        "charge_time": "2021-05-20 18:43:47",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 69,
         "service_id": 2,
-        "charge_time": "2021-05-20 15:58:47",
-        "amount": 19.79,
+        "charge_time": "2021-05-20 19:53:47",
+        "amount": 12.36,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 69,
         "service_id": 4,
-        "charge_time": "2021-05-20 16:38:47",
-        "amount": 17.29,
+        "charge_time": "2021-05-20 20:33:47",
+        "amount": 15.41,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 69,
         "service_id": 3,
-        "charge_time": "2021-05-20 17:48:47",
-        "amount": 10.87,
+        "charge_time": "2021-05-20 21:43:47",
+        "amount": 8.91,
         "charge_description": "bar"
     },
     {
         "nfc_id": 69,
         "service_id": 2,
-        "charge_time": "2021-05-21 11:04:47",
-        "amount": 19.62,
+        "charge_time": "2021-05-21 10:59:47",
+        "amount": 13.38,
         "charge_description": "restaurant"
     },
     {
@@ -3446,57 +3376,57 @@
     {
         "nfc_id": 70,
         "service_id": 2,
-        "charge_time": "2021-04-11 09:42:26",
-        "amount": 12.47,
+        "charge_time": "2021-04-11 10:22:26",
+        "amount": 16.89,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 70,
         "service_id": 7,
-        "charge_time": "2021-04-11 12:42:26",
+        "charge_time": "2021-04-11 18:53:26",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 70,
         "service_id": 5,
-        "charge_time": "2021-04-11 13:32:26",
+        "charge_time": "2021-04-11 19:43:26",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 70,
         "service_id": 6,
-        "charge_time": "2021-04-11 13:52:26",
+        "charge_time": "2021-04-11 20:03:26",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 70,
         "service_id": 2,
-        "charge_time": "2021-04-11 15:02:26",
-        "amount": 12.14,
+        "charge_time": "2021-04-11 21:13:26",
+        "amount": 10.42,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 70,
         "service_id": 4,
-        "charge_time": "2021-04-11 15:42:26",
-        "amount": 11.51,
+        "charge_time": "2021-04-11 21:53:26",
+        "amount": 21.84,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 70,
         "service_id": 3,
-        "charge_time": "2021-04-11 16:52:26",
-        "amount": 19.63,
+        "charge_time": "2021-04-11 23:03:26",
+        "amount": 11.6,
         "charge_description": "bar"
     },
     {
         "nfc_id": 70,
         "service_id": 2,
-        "charge_time": "2021-04-12 10:08:26",
-        "amount": 18.87,
+        "charge_time": "2021-04-12 12:19:26",
+        "amount": 18.88,
         "charge_description": "restaurant"
     },
     {
@@ -3509,50 +3439,50 @@
     {
         "nfc_id": 71,
         "service_id": 2,
-        "charge_time": "2021-05-19 11:10:06",
-        "amount": 10.55,
+        "charge_time": "2021-05-19 09:53:06",
+        "amount": 18.23,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 71,
         "service_id": 5,
-        "charge_time": "2021-05-19 14:00:06",
+        "charge_time": "2021-05-19 19:45:06",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 71,
         "service_id": 6,
-        "charge_time": "2021-05-19 14:20:06",
+        "charge_time": "2021-05-19 20:05:06",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 71,
         "service_id": 2,
-        "charge_time": "2021-05-19 15:30:06",
-        "amount": 13.56,
+        "charge_time": "2021-05-19 21:15:06",
+        "amount": 23.84,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 71,
         "service_id": 4,
-        "charge_time": "2021-05-19 16:10:06",
-        "amount": 12.11,
+        "charge_time": "2021-05-19 21:55:06",
+        "amount": 13.09,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 71,
         "service_id": 3,
-        "charge_time": "2021-05-19 17:20:06",
-        "amount": 12.89,
+        "charge_time": "2021-05-19 23:05:06",
+        "amount": 8.97,
         "charge_description": "bar"
     },
     {
         "nfc_id": 71,
         "service_id": 2,
-        "charge_time": "2021-05-20 10:36:06",
-        "amount": 18.29,
+        "charge_time": "2021-05-20 12:21:06",
+        "amount": 19.01,
         "charge_description": "restaurant"
     },
     {
@@ -3565,36 +3495,36 @@
     {
         "nfc_id": 72,
         "service_id": 2,
-        "charge_time": "2021-03-17 11:03:03",
-        "amount": 20.19,
+        "charge_time": "2021-03-17 09:38:03",
+        "amount": 21.77,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 72,
         "service_id": 5,
-        "charge_time": "2021-03-17 07:20:03",
+        "charge_time": "2021-03-17 12:28:03",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 72,
         "service_id": 2,
-        "charge_time": "2021-03-17 08:40:03",
-        "amount": 12.25,
+        "charge_time": "2021-03-17 13:48:03",
+        "amount": 12.53,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 72,
         "service_id": 4,
-        "charge_time": "2021-03-17 09:20:03",
-        "amount": 10.11,
+        "charge_time": "2021-03-17 14:28:03",
+        "amount": 18.28,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 72,
         "service_id": 3,
-        "charge_time": "2021-03-17 10:30:03",
-        "amount": 18.82,
+        "charge_time": "2021-03-17 15:38:03",
+        "amount": 17.12,
         "charge_description": "bar"
     },
     {
@@ -3607,51 +3537,44 @@
     {
         "nfc_id": 73,
         "service_id": 2,
-        "charge_time": "2021-05-15 11:04:47",
-        "amount": 22.03,
+        "charge_time": "2021-05-15 10:18:47",
+        "amount": 18.81,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 73,
         "service_id": 5,
-        "charge_time": "2021-05-15 13:54:47",
+        "charge_time": "2021-05-15 23:03:47",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 73,
         "service_id": 6,
-        "charge_time": "2021-05-15 14:14:47",
+        "charge_time": "2021-05-15 23:23:47",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 73,
         "service_id": 2,
-        "charge_time": "2021-05-15 15:24:47",
-        "amount": 13.09,
+        "charge_time": "2021-05-16 00:33:47",
+        "amount": 18.33,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 73,
         "service_id": 4,
-        "charge_time": "2021-05-15 16:04:47",
-        "amount": 21.69,
+        "charge_time": "2021-05-16 01:13:47",
+        "amount": 8.7,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 73,
         "service_id": 3,
-        "charge_time": "2021-05-15 17:14:47",
-        "amount": 22.71,
+        "charge_time": "2021-05-16 02:23:47",
+        "amount": 6.71,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 73,
-        "service_id": 2,
-        "charge_time": "2021-05-16 10:30:47",
-        "amount": 11.05,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 74,
@@ -3663,57 +3586,57 @@
     {
         "nfc_id": 74,
         "service_id": 2,
-        "charge_time": "2021-05-02 09:35:56",
-        "amount": 20.94,
+        "charge_time": "2021-05-02 09:50:56",
+        "amount": 18.03,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 74,
         "service_id": 7,
-        "charge_time": "2021-05-02 12:35:56",
+        "charge_time": "2021-05-02 18:57:56",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 74,
         "service_id": 5,
-        "charge_time": "2021-05-02 13:25:56",
+        "charge_time": "2021-05-02 19:47:56",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 74,
         "service_id": 6,
-        "charge_time": "2021-05-02 13:45:56",
+        "charge_time": "2021-05-02 20:07:56",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 74,
         "service_id": 2,
-        "charge_time": "2021-05-02 14:55:56",
-        "amount": 21.98,
+        "charge_time": "2021-05-02 21:17:56",
+        "amount": 20.18,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 74,
         "service_id": 4,
-        "charge_time": "2021-05-02 15:35:56",
-        "amount": 20.22,
+        "charge_time": "2021-05-02 21:57:56",
+        "amount": 27.6,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 74,
         "service_id": 3,
-        "charge_time": "2021-05-02 16:45:56",
-        "amount": 10.27,
+        "charge_time": "2021-05-02 23:07:56",
+        "amount": 10,
         "charge_description": "bar"
     },
     {
         "nfc_id": 74,
         "service_id": 2,
-        "charge_time": "2021-05-03 11:01:56",
-        "amount": 11.3,
+        "charge_time": "2021-05-03 12:23:56",
+        "amount": 22.7,
         "charge_description": "restaurant"
     },
     {
@@ -3726,58 +3649,51 @@
     {
         "nfc_id": 75,
         "service_id": 2,
-        "charge_time": "2021-03-24 10:09:01",
-        "amount": 10.07,
+        "charge_time": "2021-03-24 10:12:01",
+        "amount": 21.06,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 75,
         "service_id": 7,
-        "charge_time": "2021-03-24 13:09:01",
+        "charge_time": "2021-03-25 00:26:01",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 75,
         "service_id": 5,
-        "charge_time": "2021-03-24 13:59:01",
+        "charge_time": "2021-03-25 01:16:01",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 75,
         "service_id": 6,
-        "charge_time": "2021-03-24 14:19:01",
+        "charge_time": "2021-03-25 01:36:01",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 75,
         "service_id": 2,
-        "charge_time": "2021-03-24 15:29:01",
-        "amount": 12.34,
+        "charge_time": "2021-03-25 02:46:01",
+        "amount": 22.13,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 75,
         "service_id": 4,
-        "charge_time": "2021-03-24 16:09:01",
-        "amount": 18.12,
+        "charge_time": "2021-03-25 03:26:01",
+        "amount": 29.58,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 75,
         "service_id": 3,
-        "charge_time": "2021-03-24 17:19:01",
-        "amount": 17.51,
+        "charge_time": "2021-03-25 04:36:01",
+        "amount": 18.73,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 75,
-        "service_id": 2,
-        "charge_time": "2021-03-25 10:35:01",
-        "amount": 13.47,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 76,
@@ -3789,8 +3705,8 @@
     {
         "nfc_id": 76,
         "service_id": 2,
-        "charge_time": "2021-03-16 10:41:21",
-        "amount": 13.18,
+        "charge_time": "2021-03-16 09:52:21",
+        "amount": 23,
         "charge_description": "restaurant"
     },
     {
@@ -3804,28 +3720,28 @@
         "nfc_id": 76,
         "service_id": 2,
         "charge_time": "2021-03-16 14:14:21",
-        "amount": 14.44,
+        "amount": 11.66,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 76,
         "service_id": 4,
         "charge_time": "2021-03-16 14:54:21",
-        "amount": 16.4,
+        "amount": 26.23,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 76,
         "service_id": 3,
         "charge_time": "2021-03-16 16:04:21",
-        "amount": 6.67,
+        "amount": 11.95,
         "charge_description": "bar"
     },
     {
         "nfc_id": 76,
         "service_id": 2,
         "charge_time": "2021-03-17 10:20:21",
-        "amount": 17.52,
+        "amount": 14.19,
         "charge_description": "restaurant"
     },
     {
@@ -3838,43 +3754,43 @@
     {
         "nfc_id": 77,
         "service_id": 2,
-        "charge_time": "2021-03-23 10:50:53",
-        "amount": 14.6,
+        "charge_time": "2021-03-23 11:07:53",
+        "amount": 19.03,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 77,
         "service_id": 6,
-        "charge_time": "2021-03-23 13:20:53",
+        "charge_time": "2021-03-23 18:08:53",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 77,
         "service_id": 2,
-        "charge_time": "2021-03-23 14:30:53",
-        "amount": 15.66,
+        "charge_time": "2021-03-23 19:18:53",
+        "amount": 21.9,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 77,
         "service_id": 4,
-        "charge_time": "2021-03-23 15:10:53",
-        "amount": 11.38,
+        "charge_time": "2021-03-23 19:58:53",
+        "amount": 9.33,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 77,
         "service_id": 3,
-        "charge_time": "2021-03-23 16:20:53",
-        "amount": 24.3,
+        "charge_time": "2021-03-23 21:08:53",
+        "amount": 22.22,
         "charge_description": "bar"
     },
     {
         "nfc_id": 77,
         "service_id": 2,
-        "charge_time": "2021-03-24 10:36:53",
-        "amount": 19.69,
+        "charge_time": "2021-03-24 10:24:53",
+        "amount": 19.26,
         "charge_description": "restaurant"
     },
     {
@@ -3887,29 +3803,29 @@
     {
         "nfc_id": 78,
         "service_id": 2,
-        "charge_time": "2021-03-02 09:45:11",
-        "amount": 20.57,
+        "charge_time": "2021-03-02 09:59:11",
+        "amount": 23.58,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 78,
         "service_id": 2,
-        "charge_time": "2021-03-02 10:15:11",
-        "amount": 24.89,
+        "charge_time": "2021-03-02 13:29:11",
+        "amount": 20.63,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 78,
         "service_id": 4,
-        "charge_time": "2021-03-02 10:55:11",
-        "amount": 13.11,
+        "charge_time": "2021-03-02 14:09:11",
+        "amount": 23.74,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 78,
         "service_id": 3,
-        "charge_time": "2021-03-02 12:05:11",
-        "amount": 9.57,
+        "charge_time": "2021-03-02 15:19:11",
+        "amount": 10.54,
         "charge_description": "bar"
     },
     {
@@ -3922,36 +3838,36 @@
     {
         "nfc_id": 79,
         "service_id": 2,
-        "charge_time": "2021-04-11 10:06:45",
-        "amount": 21.29,
+        "charge_time": "2021-04-11 09:35:45",
+        "amount": 12.05,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 79,
         "service_id": 5,
-        "charge_time": "2021-04-11 07:23:45",
+        "charge_time": "2021-04-11 12:25:45",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 79,
         "service_id": 2,
-        "charge_time": "2021-04-11 08:43:45",
-        "amount": 11.96,
+        "charge_time": "2021-04-11 13:45:45",
+        "amount": 10.36,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 79,
         "service_id": 4,
-        "charge_time": "2021-04-11 09:23:45",
-        "amount": 29.95,
+        "charge_time": "2021-04-11 14:25:45",
+        "amount": 15.19,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 79,
         "service_id": 3,
-        "charge_time": "2021-04-11 10:33:45",
-        "amount": 17.04,
+        "charge_time": "2021-04-11 15:35:45",
+        "amount": 22.18,
         "charge_description": "bar"
     },
     {
@@ -3964,36 +3880,36 @@
     {
         "nfc_id": 80,
         "service_id": 2,
-        "charge_time": "2021-05-12 10:13:39",
-        "amount": 20.76,
+        "charge_time": "2021-05-12 11:03:39",
+        "amount": 15.48,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 80,
         "service_id": 7,
-        "charge_time": "2021-05-12 04:26:39",
+        "charge_time": "2021-05-12 14:03:39",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 80,
         "service_id": 2,
-        "charge_time": "2021-05-12 05:56:39",
-        "amount": 18.05,
+        "charge_time": "2021-05-12 15:33:39",
+        "amount": 10.38,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 80,
         "service_id": 4,
-        "charge_time": "2021-05-12 06:36:39",
-        "amount": 16.69,
+        "charge_time": "2021-05-12 16:13:39",
+        "amount": 25.49,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 80,
         "service_id": 3,
-        "charge_time": "2021-05-12 07:46:39",
-        "amount": 17.17,
+        "charge_time": "2021-05-12 17:23:39",
+        "amount": 16.28,
         "charge_description": "bar"
     },
     {
@@ -4006,43 +3922,43 @@
     {
         "nfc_id": 81,
         "service_id": 2,
-        "charge_time": "2021-04-21 10:58:25",
-        "amount": 13.06,
+        "charge_time": "2021-04-21 10:17:25",
+        "amount": 19.25,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 81,
         "service_id": 5,
-        "charge_time": "2021-04-21 05:29:25",
+        "charge_time": "2021-04-21 13:07:25",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 81,
         "service_id": 6,
-        "charge_time": "2021-04-21 05:49:25",
+        "charge_time": "2021-04-21 13:27:25",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 81,
         "service_id": 2,
-        "charge_time": "2021-04-21 06:59:25",
-        "amount": 20.1,
+        "charge_time": "2021-04-21 14:37:25",
+        "amount": 23.65,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 81,
         "service_id": 4,
-        "charge_time": "2021-04-21 07:39:25",
-        "amount": 19.56,
+        "charge_time": "2021-04-21 15:17:25",
+        "amount": 25.82,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 81,
         "service_id": 3,
-        "charge_time": "2021-04-21 08:49:25",
-        "amount": 15.86,
+        "charge_time": "2021-04-21 16:27:25",
+        "amount": 6.14,
         "charge_description": "bar"
     },
     {
@@ -4055,43 +3971,43 @@
     {
         "nfc_id": 82,
         "service_id": 2,
-        "charge_time": "2021-03-16 10:11:21",
-        "amount": 16.83,
+        "charge_time": "2021-03-16 10:21:21",
+        "amount": 11.93,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 82,
         "service_id": 6,
-        "charge_time": "2021-03-16 13:04:21",
+        "charge_time": "2021-03-16 12:51:21",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 82,
         "service_id": 2,
-        "charge_time": "2021-03-16 14:14:21",
-        "amount": 20.4,
+        "charge_time": "2021-03-16 14:01:21",
+        "amount": 17.11,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 82,
         "service_id": 4,
-        "charge_time": "2021-03-16 14:54:21",
-        "amount": 19.31,
+        "charge_time": "2021-03-16 14:41:21",
+        "amount": 27,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 82,
         "service_id": 3,
-        "charge_time": "2021-03-16 16:04:21",
-        "amount": 10.46,
+        "charge_time": "2021-03-16 15:51:21",
+        "amount": 16.99,
         "charge_description": "bar"
     },
     {
         "nfc_id": 82,
         "service_id": 2,
-        "charge_time": "2021-03-17 10:20:21",
-        "amount": 11.59,
+        "charge_time": "2021-03-17 10:07:21",
+        "amount": 23.22,
         "charge_description": "restaurant"
     },
     {
@@ -4105,35 +4021,35 @@
         "nfc_id": 83,
         "service_id": 2,
         "charge_time": "2021-05-14 09:26:37",
-        "amount": 20.84,
+        "amount": 14.6,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 83,
         "service_id": 2,
-        "charge_time": "2021-05-14 12:56:37",
-        "amount": 15.42,
+        "charge_time": "2021-05-14 20:53:37",
+        "amount": 18.38,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 83,
         "service_id": 4,
-        "charge_time": "2021-05-14 13:36:37",
-        "amount": 17.6,
+        "charge_time": "2021-05-14 21:33:37",
+        "amount": 17.82,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 83,
         "service_id": 3,
-        "charge_time": "2021-05-14 14:46:37",
-        "amount": 12.26,
+        "charge_time": "2021-05-14 22:43:37",
+        "amount": 17.59,
         "charge_description": "bar"
     },
     {
         "nfc_id": 83,
         "service_id": 2,
-        "charge_time": "2021-05-15 11:02:37",
-        "amount": 13.66,
+        "charge_time": "2021-05-15 11:59:37",
+        "amount": 24.54,
         "charge_description": "restaurant"
     },
     {
@@ -4146,43 +4062,43 @@
     {
         "nfc_id": 84,
         "service_id": 2,
-        "charge_time": "2021-04-30 11:05:36",
-        "amount": 11.93,
+        "charge_time": "2021-04-30 10:42:36",
+        "amount": 20.99,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 84,
         "service_id": 7,
-        "charge_time": "2021-04-30 07:27:36",
+        "charge_time": "2021-04-30 13:42:36",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 84,
         "service_id": 5,
-        "charge_time": "2021-04-30 08:17:36",
+        "charge_time": "2021-04-30 14:32:36",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 84,
         "service_id": 2,
-        "charge_time": "2021-04-30 09:37:36",
-        "amount": 15.78,
+        "charge_time": "2021-04-30 15:52:36",
+        "amount": 14.37,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 84,
         "service_id": 4,
-        "charge_time": "2021-04-30 10:17:36",
-        "amount": 11.27,
+        "charge_time": "2021-04-30 16:32:36",
+        "amount": 23,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 84,
         "service_id": 3,
-        "charge_time": "2021-04-30 11:27:36",
-        "amount": 13.48,
+        "charge_time": "2021-04-30 17:42:36",
+        "amount": 8.03,
         "charge_description": "bar"
     },
     {
@@ -4195,51 +4111,44 @@
     {
         "nfc_id": 85,
         "service_id": 2,
-        "charge_time": "2021-05-06 11:03:59",
-        "amount": 14.52,
+        "charge_time": "2021-05-06 10:03:59",
+        "amount": 24.75,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 85,
         "service_id": 5,
-        "charge_time": "2021-05-06 13:53:59",
+        "charge_time": "2021-05-06 20:36:59",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 85,
         "service_id": 6,
-        "charge_time": "2021-05-06 14:13:59",
+        "charge_time": "2021-05-06 20:56:59",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 85,
         "service_id": 2,
-        "charge_time": "2021-05-06 15:23:59",
-        "amount": 18.16,
+        "charge_time": "2021-05-06 22:06:59",
+        "amount": 11.9,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 85,
         "service_id": 4,
-        "charge_time": "2021-05-06 16:03:59",
-        "amount": 28.24,
+        "charge_time": "2021-05-06 22:46:59",
+        "amount": 29.52,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 85,
         "service_id": 3,
-        "charge_time": "2021-05-06 17:13:59",
-        "amount": 5.68,
+        "charge_time": "2021-05-06 23:56:59",
+        "amount": 17.75,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 85,
-        "service_id": 2,
-        "charge_time": "2021-05-07 10:29:59",
-        "amount": 11.31,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 86,
@@ -4251,50 +4160,50 @@
     {
         "nfc_id": 86,
         "service_id": 2,
-        "charge_time": "2021-04-17 10:51:48",
-        "amount": 18.46,
+        "charge_time": "2021-04-17 10:58:48",
+        "amount": 17.97,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 86,
         "service_id": 7,
-        "charge_time": "2021-04-17 13:51:48",
+        "charge_time": "2021-04-17 16:46:48",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 86,
         "service_id": 6,
-        "charge_time": "2021-04-17 14:21:48",
+        "charge_time": "2021-04-17 17:16:48",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 86,
         "service_id": 2,
-        "charge_time": "2021-04-17 15:31:48",
-        "amount": 18.74,
+        "charge_time": "2021-04-17 18:26:48",
+        "amount": 16.61,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 86,
         "service_id": 4,
-        "charge_time": "2021-04-17 16:11:48",
-        "amount": 23.97,
+        "charge_time": "2021-04-17 19:06:48",
+        "amount": 15.86,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 86,
         "service_id": 3,
-        "charge_time": "2021-04-17 17:21:48",
-        "amount": 10.82,
+        "charge_time": "2021-04-17 20:16:48",
+        "amount": 23.96,
         "charge_description": "bar"
     },
     {
         "nfc_id": 86,
         "service_id": 2,
-        "charge_time": "2021-04-18 10:37:48",
-        "amount": 11.98,
+        "charge_time": "2021-04-18 10:32:48",
+        "amount": 24.93,
         "charge_description": "restaurant"
     },
     {
@@ -4307,58 +4216,51 @@
     {
         "nfc_id": 87,
         "service_id": 2,
-        "charge_time": "2021-04-03 09:36:56",
-        "amount": 20.04,
+        "charge_time": "2021-04-03 10:49:56",
+        "amount": 12.61,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 87,
         "service_id": 7,
-        "charge_time": "2021-04-03 12:36:56",
+        "charge_time": "2021-04-03 21:21:56",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 87,
         "service_id": 5,
-        "charge_time": "2021-04-03 13:26:56",
+        "charge_time": "2021-04-03 22:11:56",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 87,
         "service_id": 6,
-        "charge_time": "2021-04-03 13:46:56",
+        "charge_time": "2021-04-03 22:31:56",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 87,
         "service_id": 2,
-        "charge_time": "2021-04-03 14:56:56",
-        "amount": 20.07,
+        "charge_time": "2021-04-03 23:41:56",
+        "amount": 12.01,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 87,
         "service_id": 4,
-        "charge_time": "2021-04-03 15:36:56",
-        "amount": 12.33,
+        "charge_time": "2021-04-04 00:21:56",
+        "amount": 11.93,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 87,
         "service_id": 3,
-        "charge_time": "2021-04-03 16:46:56",
-        "amount": 18.87,
+        "charge_time": "2021-04-04 01:31:56",
+        "amount": 9.59,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 87,
-        "service_id": 2,
-        "charge_time": "2021-04-04 11:02:56",
-        "amount": 10.83,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 88,
@@ -4370,36 +4272,36 @@
     {
         "nfc_id": 88,
         "service_id": 2,
-        "charge_time": "2021-04-21 10:41:25",
-        "amount": 15.56,
+        "charge_time": "2021-04-21 10:30:25",
+        "amount": 12.7,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 88,
         "service_id": 5,
-        "charge_time": "2021-04-21 05:29:25",
+        "charge_time": "2021-04-21 13:20:25",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 88,
         "service_id": 2,
-        "charge_time": "2021-04-21 06:49:25",
-        "amount": 20.51,
+        "charge_time": "2021-04-21 14:40:25",
+        "amount": 20.14,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 88,
         "service_id": 4,
-        "charge_time": "2021-04-21 07:29:25",
-        "amount": 17.17,
+        "charge_time": "2021-04-21 15:20:25",
+        "amount": 15.43,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 88,
         "service_id": 3,
-        "charge_time": "2021-04-21 08:39:25",
-        "amount": 22.54,
+        "charge_time": "2021-04-21 16:30:25",
+        "amount": 16.44,
         "charge_description": "bar"
     },
     {
@@ -4412,36 +4314,36 @@
     {
         "nfc_id": 89,
         "service_id": 2,
-        "charge_time": "2021-03-30 09:39:37",
-        "amount": 17.28,
+        "charge_time": "2021-03-30 10:00:37",
+        "amount": 24.01,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 89,
         "service_id": 2,
-        "charge_time": "2021-03-30 13:09:37",
-        "amount": 22.28,
+        "charge_time": "2021-03-31 00:44:37",
+        "amount": 13.44,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 89,
         "service_id": 4,
-        "charge_time": "2021-03-30 13:49:37",
-        "amount": 27.35,
+        "charge_time": "2021-03-31 01:24:37",
+        "amount": 17.7,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 89,
         "service_id": 3,
-        "charge_time": "2021-03-30 14:59:37",
-        "amount": 14.61,
+        "charge_time": "2021-03-31 02:34:37",
+        "amount": 20.64,
         "charge_description": "bar"
     },
     {
         "nfc_id": 89,
         "service_id": 2,
-        "charge_time": "2021-03-31 10:15:37",
-        "amount": 13.22,
+        "charge_time": "2021-04-01 10:50:37",
+        "amount": 18.21,
         "charge_description": "restaurant"
     },
     {
@@ -4454,50 +4356,50 @@
     {
         "nfc_id": 90,
         "service_id": 2,
-        "charge_time": "2021-04-09 10:08:20",
-        "amount": 13.55,
+        "charge_time": "2021-04-09 10:28:20",
+        "amount": 14.9,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 90,
         "service_id": 7,
-        "charge_time": "2021-04-09 02:53:20",
+        "charge_time": "2021-04-09 13:28:20",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 90,
         "service_id": 5,
-        "charge_time": "2021-04-09 03:43:20",
+        "charge_time": "2021-04-09 14:18:20",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 90,
         "service_id": 6,
-        "charge_time": "2021-04-09 04:03:20",
+        "charge_time": "2021-04-09 14:38:20",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 90,
         "service_id": 2,
-        "charge_time": "2021-04-09 05:13:20",
-        "amount": 13.95,
+        "charge_time": "2021-04-09 15:48:20",
+        "amount": 19.53,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 90,
         "service_id": 4,
-        "charge_time": "2021-04-09 05:53:20",
-        "amount": 18.9,
+        "charge_time": "2021-04-09 16:28:20",
+        "amount": 25.44,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 90,
         "service_id": 3,
-        "charge_time": "2021-04-09 07:03:20",
-        "amount": 8.83,
+        "charge_time": "2021-04-09 17:38:20",
+        "amount": 20.93,
         "charge_description": "bar"
     },
     {
@@ -4510,50 +4412,50 @@
     {
         "nfc_id": 91,
         "service_id": 2,
-        "charge_time": "2021-05-23 10:08:07",
-        "amount": 21.61,
+        "charge_time": "2021-05-23 09:39:07",
+        "amount": 15.83,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 91,
         "service_id": 7,
-        "charge_time": "2021-05-23 10:04:07",
+        "charge_time": "2021-05-23 12:39:07",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 91,
         "service_id": 5,
-        "charge_time": "2021-05-23 10:54:07",
+        "charge_time": "2021-05-23 13:29:07",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 91,
         "service_id": 6,
-        "charge_time": "2021-05-23 11:14:07",
+        "charge_time": "2021-05-23 13:49:07",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 91,
         "service_id": 2,
-        "charge_time": "2021-05-23 12:24:07",
-        "amount": 20.53,
+        "charge_time": "2021-05-23 14:59:07",
+        "amount": 14.13,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 91,
         "service_id": 4,
-        "charge_time": "2021-05-23 13:04:07",
-        "amount": 16.39,
+        "charge_time": "2021-05-23 15:39:07",
+        "amount": 19.11,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 91,
         "service_id": 3,
-        "charge_time": "2021-05-23 14:14:07",
-        "amount": 24.89,
+        "charge_time": "2021-05-23 16:49:07",
+        "amount": 7.63,
         "charge_description": "bar"
     },
     {
@@ -4566,51 +4468,44 @@
     {
         "nfc_id": 92,
         "service_id": 2,
-        "charge_time": "2021-05-15 09:27:21",
-        "amount": 22.43,
+        "charge_time": "2021-05-15 10:23:21",
+        "amount": 10.12,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 92,
         "service_id": 7,
-        "charge_time": "2021-05-15 12:27:21",
+        "charge_time": "2021-05-15 21:20:21",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 92,
         "service_id": 6,
-        "charge_time": "2021-05-15 12:57:21",
+        "charge_time": "2021-05-15 21:50:21",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 92,
         "service_id": 2,
-        "charge_time": "2021-05-15 14:07:21",
-        "amount": 13.69,
+        "charge_time": "2021-05-15 23:00:21",
+        "amount": 23.44,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 92,
         "service_id": 4,
-        "charge_time": "2021-05-15 14:47:21",
-        "amount": 27.33,
+        "charge_time": "2021-05-15 23:40:21",
+        "amount": 21.8,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 92,
         "service_id": 3,
-        "charge_time": "2021-05-15 15:57:21",
-        "amount": 7.92,
+        "charge_time": "2021-05-16 00:50:21",
+        "amount": 8.34,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 92,
-        "service_id": 2,
-        "charge_time": "2021-05-16 10:13:21",
-        "amount": 15.52,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 93,
@@ -4622,29 +4517,29 @@
     {
         "nfc_id": 93,
         "service_id": 2,
-        "charge_time": "2021-03-08 09:21:55",
-        "amount": 10.69,
+        "charge_time": "2021-03-08 10:59:55",
+        "amount": 14.8,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 93,
         "service_id": 2,
-        "charge_time": "2021-03-08 06:35:55",
-        "amount": 24.21,
+        "charge_time": "2021-03-08 14:29:55",
+        "amount": 22.48,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 93,
         "service_id": 4,
-        "charge_time": "2021-03-08 07:15:55",
-        "amount": 29.84,
+        "charge_time": "2021-03-08 15:09:55",
+        "amount": 14.95,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 93,
         "service_id": 3,
-        "charge_time": "2021-03-08 08:25:55",
-        "amount": 6.75,
+        "charge_time": "2021-03-08 16:19:55",
+        "amount": 12.29,
         "charge_description": "bar"
     },
     {
@@ -4657,50 +4552,50 @@
     {
         "nfc_id": 94,
         "service_id": 2,
-        "charge_time": "2021-03-08 11:03:55",
-        "amount": 10.34,
+        "charge_time": "2021-03-08 11:10:55",
+        "amount": 10.94,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 94,
         "service_id": 7,
-        "charge_time": "2021-03-08 06:05:55",
+        "charge_time": "2021-03-08 14:10:55",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 94,
         "service_id": 5,
-        "charge_time": "2021-03-08 06:55:55",
+        "charge_time": "2021-03-08 15:00:55",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 94,
         "service_id": 6,
-        "charge_time": "2021-03-08 07:15:55",
+        "charge_time": "2021-03-08 15:20:55",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 94,
         "service_id": 2,
-        "charge_time": "2021-03-08 08:25:55",
-        "amount": 23.87,
+        "charge_time": "2021-03-08 16:30:55",
+        "amount": 11.06,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 94,
         "service_id": 4,
-        "charge_time": "2021-03-08 09:05:55",
-        "amount": 20.67,
+        "charge_time": "2021-03-08 17:10:55",
+        "amount": 25.51,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 94,
         "service_id": 3,
-        "charge_time": "2021-03-08 10:15:55",
-        "amount": 20.5,
+        "charge_time": "2021-03-08 18:20:55",
+        "amount": 13.74,
         "charge_description": "bar"
     },
     {
@@ -4713,51 +4608,44 @@
     {
         "nfc_id": 95,
         "service_id": 2,
-        "charge_time": "2021-04-03 10:41:09",
-        "amount": 21.36,
+        "charge_time": "2021-04-03 10:10:09",
+        "amount": 19.05,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 95,
         "service_id": 7,
-        "charge_time": "2021-04-03 13:41:09",
+        "charge_time": "2021-04-04 00:24:09",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 95,
         "service_id": 5,
-        "charge_time": "2021-04-03 14:31:09",
+        "charge_time": "2021-04-04 01:14:09",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 95,
         "service_id": 2,
-        "charge_time": "2021-04-03 15:51:09",
-        "amount": 22.43,
+        "charge_time": "2021-04-04 02:34:09",
+        "amount": 19.5,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 95,
         "service_id": 4,
-        "charge_time": "2021-04-03 16:31:09",
-        "amount": 23.59,
+        "charge_time": "2021-04-04 03:14:09",
+        "amount": 18.64,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 95,
         "service_id": 3,
-        "charge_time": "2021-04-03 17:41:09",
-        "amount": 11.47,
+        "charge_time": "2021-04-04 04:24:09",
+        "amount": 10.92,
         "charge_description": "bar"
-    },
-    {
-        "nfc_id": 95,
-        "service_id": 2,
-        "charge_time": "2021-04-04 10:57:09",
-        "amount": 10.48,
-        "charge_description": "restaurant"
     },
     {
         "nfc_id": 96,
@@ -4769,43 +4657,43 @@
     {
         "nfc_id": 96,
         "service_id": 2,
-        "charge_time": "2021-03-30 09:27:04",
-        "amount": 12.4,
+        "charge_time": "2021-03-30 10:28:04",
+        "amount": 16.74,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 96,
         "service_id": 7,
-        "charge_time": "2021-03-30 08:08:04",
+        "charge_time": "2021-03-30 13:28:04",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 96,
         "service_id": 2,
-        "charge_time": "2021-03-30 09:38:04",
-        "amount": 11.14,
+        "charge_time": "2021-03-30 14:58:04",
+        "amount": 11.52,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 96,
         "service_id": 4,
-        "charge_time": "2021-03-30 10:18:04",
-        "amount": 18.21,
+        "charge_time": "2021-03-30 15:38:04",
+        "amount": 12.63,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 96,
         "service_id": 3,
-        "charge_time": "2021-03-30 11:28:04",
-        "amount": 13.85,
+        "charge_time": "2021-03-30 16:48:04",
+        "amount": 9.71,
         "charge_description": "bar"
     },
     {
         "nfc_id": 96,
         "service_id": 2,
-        "charge_time": "2021-03-31 10:44:04",
-        "amount": 16.36,
+        "charge_time": "2021-03-31 11:04:04",
+        "amount": 20.96,
         "charge_description": "restaurant"
     },
     {
@@ -4818,43 +4706,43 @@
     {
         "nfc_id": 97,
         "service_id": 2,
-        "charge_time": "2021-05-10 11:05:34",
-        "amount": 19.76,
+        "charge_time": "2021-05-10 09:27:34",
+        "amount": 14.07,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 97,
         "service_id": 7,
-        "charge_time": "2021-05-10 14:05:34",
+        "charge_time": "2021-05-10 18:43:34",
         "amount": 3.5,
         "charge_description": "conference room use"
     },
     {
         "nfc_id": 97,
         "service_id": 2,
-        "charge_time": "2021-05-10 15:35:34",
-        "amount": 10.38,
+        "charge_time": "2021-05-10 20:13:34",
+        "amount": 10.48,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 97,
         "service_id": 4,
-        "charge_time": "2021-05-10 16:15:34",
-        "amount": 22.71,
+        "charge_time": "2021-05-10 20:53:34",
+        "amount": 13.14,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 97,
         "service_id": 3,
-        "charge_time": "2021-05-10 17:25:34",
-        "amount": 16.37,
+        "charge_time": "2021-05-10 22:03:34",
+        "amount": 9.83,
         "charge_description": "bar"
     },
     {
         "nfc_id": 97,
         "service_id": 2,
-        "charge_time": "2021-05-11 10:41:34",
-        "amount": 22.7,
+        "charge_time": "2021-05-11 11:19:34",
+        "amount": 24.88,
         "charge_description": "restaurant"
     },
     {
@@ -4867,36 +4755,36 @@
     {
         "nfc_id": 98,
         "service_id": 2,
-        "charge_time": "2021-04-23 11:03:53",
-        "amount": 11.85,
+        "charge_time": "2021-04-23 11:12:53",
+        "amount": 19.09,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 98,
         "service_id": 5,
-        "charge_time": "2021-04-23 07:57:53",
+        "charge_time": "2021-04-23 14:02:53",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 98,
         "service_id": 2,
-        "charge_time": "2021-04-23 09:17:53",
-        "amount": 14.74,
+        "charge_time": "2021-04-23 15:22:53",
+        "amount": 23.63,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 98,
         "service_id": 4,
-        "charge_time": "2021-04-23 09:57:53",
-        "amount": 26.38,
+        "charge_time": "2021-04-23 16:02:53",
+        "amount": 29.93,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 98,
         "service_id": 3,
-        "charge_time": "2021-04-23 11:07:53",
-        "amount": 19.84,
+        "charge_time": "2021-04-23 17:12:53",
+        "amount": 15.87,
         "charge_description": "bar"
     },
     {
@@ -4909,43 +4797,43 @@
     {
         "nfc_id": 99,
         "service_id": 2,
-        "charge_time": "2021-03-03 09:20:50",
-        "amount": 10.35,
+        "charge_time": "2021-03-03 10:46:50",
+        "amount": 22.67,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 99,
         "service_id": 6,
-        "charge_time": "2021-03-03 11:50:50",
+        "charge_time": "2021-03-03 16:59:50",
         "amount": 2,
         "charge_description": "sauna use"
     },
     {
         "nfc_id": 99,
         "service_id": 2,
-        "charge_time": "2021-03-03 13:00:50",
-        "amount": 23.69,
+        "charge_time": "2021-03-03 18:09:50",
+        "amount": 15.8,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 99,
         "service_id": 4,
-        "charge_time": "2021-03-03 13:40:50",
-        "amount": 28.03,
+        "charge_time": "2021-03-03 18:49:50",
+        "amount": 14.35,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 99,
         "service_id": 3,
-        "charge_time": "2021-03-03 14:50:50",
-        "amount": 8.14,
+        "charge_time": "2021-03-03 19:59:50",
+        "amount": 23.13,
         "charge_description": "bar"
     },
     {
         "nfc_id": 99,
         "service_id": 2,
-        "charge_time": "2021-03-04 10:06:50",
-        "amount": 19.23,
+        "charge_time": "2021-03-04 10:15:50",
+        "amount": 19.55,
         "charge_description": "restaurant"
     },
     {
@@ -4958,36 +4846,36 @@
     {
         "nfc_id": 100,
         "service_id": 2,
-        "charge_time": "2021-05-26 11:05:50",
-        "amount": 16.81,
+        "charge_time": "2021-05-26 11:07:50",
+        "amount": 22.16,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 100,
         "service_id": 5,
-        "charge_time": "2021-05-26 03:23:50",
+        "charge_time": "2021-05-26 13:57:50",
         "amount": 4,
         "charge_description": "gym use"
     },
     {
         "nfc_id": 100,
         "service_id": 2,
-        "charge_time": "2021-05-26 04:43:50",
-        "amount": 17.69,
+        "charge_time": "2021-05-26 15:17:50",
+        "amount": 16.18,
         "charge_description": "restaurant"
     },
     {
         "nfc_id": 100,
         "service_id": 4,
-        "charge_time": "2021-05-26 05:23:50",
-        "amount": 12.5,
+        "charge_time": "2021-05-26 15:57:50",
+        "amount": 17.28,
         "charge_description": "hair salon"
     },
     {
         "nfc_id": 100,
         "service_id": 3,
-        "charge_time": "2021-05-26 06:33:50",
-        "amount": 17.25,
+        "charge_time": "2021-05-26 17:07:50",
+        "amount": 17.19,
         "charge_description": "bar"
     }
 ]
